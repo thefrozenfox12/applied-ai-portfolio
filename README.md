@@ -4,7 +4,7 @@ Working AI applications for business and analytics, with reproducible Python wor
 
 ## Projects
 
-### Signal — review sentiment and emotion analysis
+### Signal: review sentiment and emotion analysis
 
 Classify product-review text, inspect sentiment and emotion, and compare predictions with rating-based labels. The project combines a Python classification pipeline, an offline results dashboard, and a deployable CSV upload workspace.
 
