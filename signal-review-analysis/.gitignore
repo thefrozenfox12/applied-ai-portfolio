@@ -1,0 +1,17 @@
+data/
+.env
+.venv/
+__pycache__/
+results/*_checkpoint.json
+*.tmp
+node_modules/
+results/*_errors.json
+results/*.log
+
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json

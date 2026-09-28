@@ -1,0 +1,4006 @@
+{
+  "binary": [
+    {
+      "title": "Great gift",
+      "text": "Having Amazon money is always good.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1549866158332,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000001",
+      "source_line": 1,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift",
+        "text": "Having Amazon money is always good."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "amazon gift card",
+      "text": "Always the perfect gift.  I have never given one and had someone seem or act disappointed.  Just the opposite.  They are thrilled and excited to have a bit of a spree.  Always the perfect size and color!  Arrives in 1 day in most cases.  So it's never too late!  Lots of cards to chose from... thank you... birthday... wedding..baby..  and many that work for many occasions...",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1599875158120,
+      "asin": "B005ESMMWW",
+      "id": "gc-000002",
+      "source_line": 2,
+      "rating": 5,
+      "model_input": {
+        "title": "amazon gift card",
+        "text": "Always the perfect gift.  I have never given one and had someone seem or act disappointed.  Just the opposite.  They are thrilled and excited to have a bit of a spree.  Always the perfect size and color!  Arrives in 1 day in most cases.  So it's never too late!  Lots of cards to chose from... thank you... birthday... wedding..baby..  and many that work for many occasions..."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "perfect gift",
+      "text": "When you have a person who is hard to shop for.. an amazon gift card is P E R F E C T.  Man or woman...  No matter what their hobby... lifestyle.. or age.  All you have to do is pick the $.  Don't forget to mention that it is a GIFT when you check out - you will have some gift card options.  I've ordered many of these over years.  They are always received with glee.  Woo hoo!  If you're looking for a great fit for me - this is just my size!  :)  Best to all!",
+      "verified_purchase": true,
+      "helpful_vote": 27,
+      "timestamp": 1535939929239,
+      "asin": "B01K8RIM5Y",
+      "id": "gc-000003",
+      "source_line": 3,
+      "rating": 5,
+      "model_input": {
+        "title": "perfect gift",
+        "text": "When you have a person who is hard to shop for.. an amazon gift card is P E R F E C T.  Man or woman...  No matter what their hobby... lifestyle.. or age.  All you have to do is pick the $.  Don't forget to mention that it is a GIFT when you check out - you will have some gift card options.  I've ordered many of these over years.  They are always received with glee.  Woo hoo!  If you're looking for a great fit for me - this is just my size!  :)  Best to all!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Nice looking",
+      "text": "The tin is a nice touch and pretty large.  It's about 4&#34; in diameter and about 1/2&#34; thick.  I added a pretty red ribbon and it is perfect.  Who doesn't love shopping on Amazon? Arrived quickly, I have Prime... but I think they ship the gift cards out SUPER fast... like over night. In case you need it for a FAST gift.",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1418439577000,
+      "asin": "B0091JKVU0",
+      "id": "gc-000004",
+      "source_line": 4,
+      "rating": 5,
+      "model_input": {
+        "title": "Nice looking",
+        "text": "The tin is a nice touch and pretty large.  It's about 4&#34; in diameter and about 1/2&#34; thick.  I added a pretty red ribbon and it is perfect.  Who doesn't love shopping on Amazon? Arrived quickly, I have Prime... but I think they ship the gift cards out SUPER fast... like over night. In case you need it for a FAST gift."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Not $10 Gift Cards",
+      "text": "I bought this pack of Starbucks Gift cards in 2019. Ive given them to friends and I gave 2 to my daughter.<br />My daughter used one recently and it had $6.52 on the card not $10.00. She had the cashier check the balance of the other card and it had $5.32 on it! She had forgotten that she had these gift cards, so yes, 2 years later decided to use the when she found them! Do they decline in value? And then both had random amounts on them! I'm embarrassed now to have given them as gifts! Friends receiving the gift card aren't going to tell you that weren't able to cover their order with the card you gave them!!!",
+      "verified_purchase": true,
+      "helpful_vote": 2,
+      "timestamp": 1638068808115,
+      "asin": "B00FTGTM5E",
+      "id": "gc-000005",
+      "source_line": 5,
+      "rating": 1,
+      "model_input": {
+        "title": "Not $10 Gift Cards",
+        "text": "I bought this pack of Starbucks Gift cards in 2019. Ive given them to friends and I gave 2 to my daughter.<br />My daughter used one recently and it had $6.52 on the card not $10.00. She had the cashier check the balance of the other card and it had $5.32 on it! She had forgotten that she had these gift cards, so yes, 2 years later decided to use the when she found them! Do they decline in value? And then both had random amounts on them! I'm embarrassed now to have given them as gifts! Friends receiving the gift card aren't going to tell you that weren't able to cover their order with the card you gave them!!!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Cute!",
+      "text": "That snowman tin is adorable",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1608661063303,
+      "asin": "B072L7GTF5",
+      "id": "gc-000006",
+      "source_line": 6,
+      "rating": 5,
+      "model_input": {
+        "title": "Cute!",
+        "text": "That snowman tin is adorable"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy gift",
+      "text": "Great and easy gift",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1602104097716,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000007",
+      "source_line": 7,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy gift",
+        "text": "Great and easy gift"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great gift",
+      "text": "Super cute nice quality tin<br />Your choose amount",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1551247682370,
+      "asin": "B072P5VV4D",
+      "id": "gc-000008",
+      "source_line": 8,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift",
+        "text": "Super cute nice quality tin<br />Your choose amount"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gifts for my two granddaughters",
+      "text": "They love it !!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1675387900672,
+      "asin": "B072P5VV4D",
+      "id": "gc-000009",
+      "source_line": 9,
+      "rating": 5,
+      "model_input": {
+        "title": "Gifts for my two granddaughters",
+        "text": "They love it !!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great for saying “thank you” to the mail person, farrier, yard man,etc",
+      "text": "So many people<br />Make your life better so remember them!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1674305242048,
+      "asin": "B071NM2PNL",
+      "id": "gc-000010",
+      "source_line": 10,
+      "rating": 5,
+      "model_input": {
+        "title": "Great for saying “thank you” to the mail person, farrier, yard man,etc",
+        "text": "So many people<br />Make your life better so remember them!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Convenient, safe, and perfect gift",
+      "text": "My grandson inlaw loves his gift cards, so it's the perfect gift for Christmas",
+      "verified_purchase": true,
+      "helpful_vote": 2,
+      "timestamp": 1573997914372,
+      "asin": "B01GKWEH64",
+      "id": "gc-000011",
+      "source_line": 11,
+      "rating": 5,
+      "model_input": {
+        "title": "Convenient, safe, and perfect gift",
+        "text": "My grandson inlaw loves his gift cards, so it's the perfect gift for Christmas"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Giftcard",
+      "text": "What can you say about a gift card? Well, it was valid. It's a good gift for someone who doesn't like to cook. Arrived promptly.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1597503033721,
+      "asin": "B084RMVP59",
+      "id": "gc-000012",
+      "source_line": 12,
+      "rating": 5,
+      "model_input": {
+        "title": "Giftcard",
+        "text": "What can you say about a gift card? Well, it was valid. It's a good gift for someone who doesn't like to cook. Arrived promptly."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Simple giftcard!",
+      "text": "Easy way to gift money for birthdays.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1622792110181,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-000013",
+      "source_line": 13,
+      "rating": 5,
+      "model_input": {
+        "title": "Simple giftcard!",
+        "text": "Easy way to gift money for birthdays."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great giftcard",
+      "text": "Great gift for online shoppers!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1622787790140,
+      "asin": "B0866T1TQJ",
+      "id": "gc-000014",
+      "source_line": 14,
+      "rating": 5,
+      "model_input": {
+        "title": "Great giftcard",
+        "text": "Great gift for online shoppers!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy..",
+      "text": "Reloading is easy. Shopping is easy. Amazon is easy.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1466368648000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000015",
+      "source_line": 15,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy..",
+        "text": "Reloading is easy. Shopping is easy. Amazon is easy."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One Star",
+      "text": "Card did not work!!!!",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1505610792650,
+      "asin": "B00X6G8WCI",
+      "id": "gc-000016",
+      "source_line": 16,
+      "rating": 1,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Card did not work!!!!"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Great Product.",
+      "text": "I bought this for a Christmas gift.The recipient really liked it.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1545086272871,
+      "asin": "B01K8RMDO0",
+      "id": "gc-000017",
+      "source_line": 17,
+      "rating": 5,
+      "model_input": {
+        "title": "Great Product.",
+        "text": "I bought this for a Christmas gift.The recipient really liked it."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "No note attached to sent gift card",
+      "text": "What a pretty gift card presentation , the recipient loved it ! I have one complaint , I took the time and wrote a short note to the recipient of the gift card so she knew who and why the GC was being sent but the note wasn’t attached. I’ve used the option to write a note on many occasions and several times it showed up without the note . I actually had to contact her to ask if she had checked her mail knowing it had arrived .",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1588871215900,
+      "asin": "B01IE42ST4",
+      "id": "gc-000018",
+      "source_line": 18,
+      "rating": 5,
+      "model_input": {
+        "title": "No note attached to sent gift card",
+        "text": "What a pretty gift card presentation , the recipient loved it ! I have one complaint , I took the time and wrote a short note to the recipient of the gift card so she knew who and why the GC was being sent but the note wasn’t attached. I’ve used the option to write a note on many occasions and several times it showed up without the note . I actually had to contact her to ask if she had checked her mail knowing it had arrived ."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Perfect! Arrived just when stated!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1560630089067,
+      "asin": "B06W5SBSL7",
+      "id": "gc-000019",
+      "source_line": 19,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Perfect! Arrived just when stated!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good",
+      "text": "Good gift card",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1652642526420,
+      "asin": "B078VSWVGY",
+      "id": "gc-000020",
+      "source_line": 20,
+      "rating": 5,
+      "model_input": {
+        "title": "Good",
+        "text": "Good gift card"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1647201883803,
+      "asin": "B072F9T6VX",
+      "id": "gc-000021",
+      "source_line": 21,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1643574023858,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-000022",
+      "source_line": 22,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1625865123309,
+      "asin": "B072BQ7XSH",
+      "id": "gc-000023",
+      "source_line": 23,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1621794097012,
+      "asin": "B01IE42ST4",
+      "id": "gc-000024",
+      "source_line": 24,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1618607813583,
+      "asin": "B07HJD9FVV",
+      "id": "gc-000025",
+      "source_line": 25,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good product",
+      "text": "Good product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1610319642327,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-000026",
+      "source_line": 26,
+      "rating": 5,
+      "model_input": {
+        "title": "Good product",
+        "text": "Good product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good product",
+      "text": "Good product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1610319551349,
+      "asin": "B00BXLWD0U",
+      "id": "gc-000027",
+      "source_line": 27,
+      "rating": 5,
+      "model_input": {
+        "title": "Good product",
+        "text": "Good product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1600998736261,
+      "asin": "B01MSBQB1P",
+      "id": "gc-000028",
+      "source_line": 28,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good Product",
+      "text": "Good Product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1594616189941,
+      "asin": "B01K8RMDO0",
+      "id": "gc-000029",
+      "source_line": 29,
+      "rating": 5,
+      "model_input": {
+        "title": "Good Product",
+        "text": "Good Product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good",
+      "text": "Good",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1594616023131,
+      "asin": "B07PFLG7VG",
+      "id": "gc-000030",
+      "source_line": 30,
+      "rating": 5,
+      "model_input": {
+        "title": "Good",
+        "text": "Good"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Perfect for Christmas",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1646362028105,
+      "asin": "B07FK7L976",
+      "id": "gc-000031",
+      "source_line": 31,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Perfect for Christmas"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "So easy",
+      "text": "Easy to do",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1587064572520,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000032",
+      "source_line": 32,
+      "rating": 5,
+      "model_input": {
+        "title": "So easy",
+        "text": "Easy to do"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Mistake",
+      "text": "Hit button by mistake n deduction from credit card on file",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1576194477554,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000033",
+      "source_line": 33,
+      "rating": 2,
+      "model_input": {
+        "title": "Mistake",
+        "text": "Hit button by mistake n deduction from credit card on file"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great gift idea",
+      "text": "Always great to order from my home. Amazon rocks!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1607184498800,
+      "asin": "B01K8RL9C2",
+      "id": "gc-000034",
+      "source_line": 34,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift idea",
+        "text": "Always great to order from my home. Amazon rocks!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Secure",
+      "text": "So easy to use and recipients get to choose how to use it.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1617048149237,
+      "asin": "B01K8RL9C2",
+      "id": "gc-000035",
+      "source_line": 35,
+      "rating": 5,
+      "model_input": {
+        "title": "Secure",
+        "text": "So easy to use and recipients get to choose how to use it."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Birthday surprise!",
+      "text": "This was a good birthday surprise!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1578591695293,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-000036",
+      "source_line": 36,
+      "rating": 5,
+      "model_input": {
+        "title": "Birthday surprise!",
+        "text": "This was a good birthday surprise!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Birthday Gift",
+      "text": "Have given as Holiday, Birthday & Other Occasions remembrances. Always appreciated by the person receiving.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1661888412555,
+      "asin": "B077T9WSSN",
+      "id": "gc-000037",
+      "source_line": 37,
+      "rating": 5,
+      "model_input": {
+        "title": "Birthday Gift",
+        "text": "Have given as Holiday, Birthday & Other Occasions remembrances. Always appreciated by the person receiving."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Fun",
+      "text": "Awesome & they work",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1547951768806,
+      "asin": "B01MSBQB1P",
+      "id": "gc-000038",
+      "source_line": 38,
+      "rating": 5,
+      "model_input": {
+        "title": "Fun",
+        "text": "Awesome & they work"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Reload is super easy.",
+      "text": "Really ready to reload gift cards.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1554034169706,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000039",
+      "source_line": 39,
+      "rating": 5,
+      "model_input": {
+        "title": "Reload is super easy.",
+        "text": "Really ready to reload gift cards."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Convenience of giftabiliy.",
+      "text": "A great way to give a gift to family members in physical form. It was so convenient.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1608272055300,
+      "asin": "B071NM2PNL",
+      "id": "gc-000040",
+      "source_line": 40,
+      "rating": 5,
+      "model_input": {
+        "title": "Convenience of giftabiliy.",
+        "text": "A great way to give a gift to family members in physical form. It was so convenient."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great Gift Package",
+      "text": "Nice gift packaging for any event",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1472217049000,
+      "asin": "B014S24J16",
+      "id": "gc-000041",
+      "source_line": 41,
+      "rating": 5,
+      "model_input": {
+        "title": "Great Gift Package",
+        "text": "Nice gift packaging for any event"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Grest Sandwitches !!",
+      "text": "Perfect and I even used Amazon Points - was mailed right out.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1459026048000,
+      "asin": "B00CIECDEM",
+      "id": "gc-000042",
+      "source_line": 42,
+      "rating": 5,
+      "model_input": {
+        "title": "Grest Sandwitches !!",
+        "text": "Perfect and I even used Amazon Points - was mailed right out."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "GOOD PIZZA !!",
+      "text": "Perfect and I even used Amazon Points - was mailed right out.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1459026010000,
+      "asin": "B00HLAO738",
+      "id": "gc-000043",
+      "source_line": 43,
+      "rating": 5,
+      "model_input": {
+        "title": "GOOD PIZZA !!",
+        "text": "Perfect and I even used Amazon Points - was mailed right out."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "We like this Store and they stock Tons of different Items for all kinds of Pets",
+      "text": "Our cats love this place.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1449424730000,
+      "asin": "B015726JLY",
+      "id": "gc-000044",
+      "source_line": 44,
+      "rating": 5,
+      "model_input": {
+        "title": "We like this Store and they stock Tons of different Items for all kinds of Pets",
+        "text": "Our cats love this place."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Money was loaded on card",
+      "text": "Was cute and the money was loaded when it arrived",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1559406477298,
+      "asin": "B076CV42TK",
+      "id": "gc-000045",
+      "source_line": 45,
+      "rating": 5,
+      "model_input": {
+        "title": "Money was loaded on card",
+        "text": "Was cute and the money was loaded when it arrived"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "👍",
+      "text": "👍",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1642620213869,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-000046",
+      "source_line": 46,
+      "rating": 5,
+      "model_input": {
+        "title": "👍",
+        "text": "👍"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Love it!!",
+      "text": "This is an online gift card nothing to show sorry🤪",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1670031712393,
+      "asin": "B086KKT3RX",
+      "id": "gc-000047",
+      "source_line": 47,
+      "rating": 5,
+      "model_input": {
+        "title": "Love it!!",
+        "text": "This is an online gift card nothing to show sorry🤪"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Gift cards are always a hit.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1490602754000,
+      "asin": "B0091JKY0M",
+      "id": "gc-000048",
+      "source_line": 48,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Gift cards are always a hit."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "So cool you can get a free tin with the gift ...",
+      "text": "So cool you can get a free tin with the gift card and it comes in 24 hours!! Super awesome. Last year I just printed off the gift cards which looked kind of cheap even though the cards were for substantial amounts. Highly recommend.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1514399125141,
+      "asin": "B072P5VV4D",
+      "id": "gc-000049",
+      "source_line": 49,
+      "rating": 5,
+      "model_input": {
+        "title": "So cool you can get a free tin with the gift ...",
+        "text": "So cool you can get a free tin with the gift card and it comes in 24 hours!! Super awesome. Last year I just printed off the gift cards which looked kind of cheap even though the cards were for substantial amounts. Highly recommend."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Reccomend",
+      "text": "Really easy to load",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1613752140987,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000050",
+      "source_line": 50,
+      "rating": 5,
+      "model_input": {
+        "title": "Reccomend",
+        "text": "Really easy to load"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Little sister surprise",
+      "text": "Same gift as her big sister's, this little one can choose the exact thing she most desires and run to the door for three days in anticipation.  A combined birthday and Christmas present for one who knows her own mind.  Good choice!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1486682224000,
+      "asin": "B0091JKYLQ",
+      "id": "gc-000051",
+      "source_line": 51,
+      "rating": 5,
+      "model_input": {
+        "title": "Little sister surprise",
+        "text": "Same gift as her big sister's, this little one can choose the exact thing she most desires and run to the door for three days in anticipation.  A combined birthday and Christmas present for one who knows her own mind.  Good choice!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "The added value was great, but no more",
+      "text": "Purchasing an Amazon gift card came with an added monetary value but no more.<br /><br />A Bronx cheer for you!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1638164827641,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000052",
+      "source_line": 52,
+      "rating": 1,
+      "model_input": {
+        "title": "The added value was great, but no more",
+        "text": "Purchasing an Amazon gift card came with an added monetary value but no more.<br /><br />A Bronx cheer for you!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect gift!",
+      "text": "This is near where I work and has a drive through.  Nothing better during these times to give than a gift of good food they can pick up with minimal contact. Gift cards are the way to go these days!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1604369336892,
+      "asin": "B07Q8KN5TJ",
+      "id": "gc-000053",
+      "source_line": 53,
+      "rating": 4,
+      "model_input": {
+        "title": "Perfect gift!",
+        "text": "This is near where I work and has a drive through.  Nothing better during these times to give than a gift of good food they can pick up with minimal contact. Gift cards are the way to go these days!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great staff appreciation gift!",
+      "text": "What better gift during these times than one to treat yourself.  This is a great gift I gave out to my staff and even those who don't read liked the idea of being able to listen to the audiobooks as well as there being content and other media through Audible.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1604369109976,
+      "asin": "B07Y5YJK66",
+      "id": "gc-000054",
+      "source_line": 54,
+      "rating": 4,
+      "model_input": {
+        "title": "Great staff appreciation gift!",
+        "text": "What better gift during these times than one to treat yourself.  This is a great gift I gave out to my staff and even those who don't read liked the idea of being able to listen to the audiobooks as well as there being content and other media through Audible."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Cute cute cute!",
+      "text": "I love the tin! The gift cards can be ordered on different amounts.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1527712711389,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-000055",
+      "source_line": 55,
+      "rating": 5,
+      "model_input": {
+        "title": "Cute cute cute!",
+        "text": "I love the tin! The gift cards can be ordered on different amounts."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Simple and easy.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1513451925880,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000056",
+      "source_line": 56,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Simple and easy."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "As described.",
+      "text": "Being able to reload the gift card is a time saver.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1643240290899,
+      "asin": "B086KKT3RX",
+      "id": "gc-000057",
+      "source_line": 57,
+      "rating": 5,
+      "model_input": {
+        "title": "As described.",
+        "text": "Being able to reload the gift card is a time saver."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect gift for any occasion. Let them pick out what they love!",
+      "text": "I mean really, who wouldn't LOVE this?!?  Wonderful gift for any occasion.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1496718858000,
+      "asin": "B01MDLOM4V",
+      "id": "gc-000058",
+      "source_line": 58,
+      "rating": 5,
+      "model_input": {
+        "title": "Perfect gift for any occasion. Let them pick out what they love!",
+        "text": "I mean really, who wouldn't LOVE this?!?  Wonderful gift for any occasion."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "12 year old daughter loved this gift!",
+      "text": "Perfect gift for your kids!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1491786205000,
+      "asin": "B005ESMHN6",
+      "id": "gc-000059",
+      "source_line": 59,
+      "rating": 5,
+      "model_input": {
+        "title": "12 year old daughter loved this gift!",
+        "text": "Perfect gift for your kids!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy to send to an Amazon shopper",
+      "text": "This is a simple gift to friends or family. For me it was easy to setup. Took ok only about 30 seconds. I also redeem Visa gifts by giving the gift card to myself. I like there isnt a fee. I do want Amazon to make some cooler cards with my animation when a receiver gets it.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1560933495865,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000060",
+      "source_line": 60,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy to send to an Amazon shopper",
+        "text": "This is a simple gift to friends or family. For me it was easy to setup. Took ok only about 30 seconds. I also redeem Visa gifts by giving the gift card to myself. I like there isnt a fee. I do want Amazon to make some cooler cards with my animation when a receiver gets it."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Rec'd promo from Amazon when reloading gift card.",
+      "text": "Bonus, rec'd a promo from Amazon for reloading gift card.  Yeah.<br /><br />Gift card was posted to my account quickly.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1571823522128,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000061",
+      "source_line": 61,
+      "rating": 5,
+      "model_input": {
+        "title": "Rec'd promo from Amazon when reloading gift card.",
+        "text": "Bonus, rec'd a promo from Amazon for reloading gift card.  Yeah.<br /><br />Gift card was posted to my account quickly."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Saves a Little Over time.",
+      "text": "Nice way to save a few bucks overtime by reloading your own gift card.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1558233886561,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000062",
+      "source_line": 62,
+      "rating": 5,
+      "model_input": {
+        "title": "Saves a Little Over time.",
+        "text": "Nice way to save a few bucks overtime by reloading your own gift card."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "What a great company",
+      "text": "Who wouldn't want an Amazon gift card?  The box foretold the contents, lol.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1484281260000,
+      "asin": "B005ESMF5G",
+      "id": "gc-000063",
+      "source_line": 63,
+      "rating": 5,
+      "model_input": {
+        "title": "What a great company",
+        "text": "Who wouldn't want an Amazon gift card?  The box foretold the contents, lol."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "A problem to use at drive thru's",
+      "text": "I only used the $50 card one time at Burger King. It was difficult to use. Must be run as credit, not as gift card. No remaining balance is given at the end of the transaction. And although it's on me, I misplaced or lost this card after only spending about $6 of it. I was hoping that the seller could provide me with the full card number so that I could at least use it online for other purchases. They failed to respond. I have the receipt from BK, but it only shows the last 4 numbers. There isn't a way of contacting happy cards customer service online that I could figure out. I wish I'd just stuck with credit cards. A lot safer.",
+      "verified_purchase": true,
+      "helpful_vote": 4,
+      "timestamp": 1615898825149,
+      "asin": "B07RN957Q8",
+      "id": "gc-000064",
+      "source_line": 64,
+      "rating": 1,
+      "model_input": {
+        "title": "A problem to use at drive thru's",
+        "text": "I only used the $50 card one time at Burger King. It was difficult to use. Must be run as credit, not as gift card. No remaining balance is given at the end of the transaction. And although it's on me, I misplaced or lost this card after only spending about $6 of it. I was hoping that the seller could provide me with the full card number so that I could at least use it online for other purchases. They failed to respond. I have the receipt from BK, but it only shows the last 4 numbers. There isn't a way of contacting happy cards customer service online that I could figure out. I wish I'd just stuck with credit cards. A lot safer."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "A gift card does make a great gift for a tweenager.",
+      "text": "We all know the kid who wants nothing. Or actually wants everything but nothing is good enough. YES,YES,the secret weapon. A AMAZON GIFT CARD!!  You pulled it off. You showed your love and you are the best and greatest. Happy Birthday to just because,You are the BEST!!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1667152661548,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000065",
+      "source_line": 65,
+      "rating": 5,
+      "model_input": {
+        "title": "A gift card does make a great gift for a tweenager.",
+        "text": "We all know the kid who wants nothing. Or actually wants everything but nothing is good enough. YES,YES,the secret weapon. A AMAZON GIFT CARD!!  You pulled it off. You showed your love and you are the best and greatest. Happy Birthday to just because,You are the BEST!!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Nice to have",
+      "text": "This comes in  very handy, and makes the guilt less",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1501709478479,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000066",
+      "source_line": 66,
+      "rating": 5,
+      "model_input": {
+        "title": "Nice to have",
+        "text": "This comes in  very handy, and makes the guilt less"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Excellent Gift",
+      "text": "Who would not like an Amazon Gift Card?  Makes everyone I give them, happy!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1611444311497,
+      "asin": "B071NM2PNL",
+      "id": "gc-000067",
+      "source_line": 67,
+      "rating": 5,
+      "model_input": {
+        "title": "Excellent Gift",
+        "text": "Who would not like an Amazon Gift Card?  Makes everyone I give them, happy!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Yay so easy!",
+      "text": "So easy! No scraping!",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1494974249000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000068",
+      "source_line": 68,
+      "rating": 5,
+      "model_input": {
+        "title": "Yay so easy!",
+        "text": "So easy! No scraping!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": ":)",
+      "text": "easy to use",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1653192933371,
+      "asin": "B086KKT3RX",
+      "id": "gc-000069",
+      "source_line": 69,
+      "rating": 5,
+      "model_input": {
+        "title": ":)",
+        "text": "easy to use"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "10/10",
+      "text": "works great",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1582923781652,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000070",
+      "source_line": 70,
+      "rating": 5,
+      "model_input": {
+        "title": "10/10",
+        "text": "works great"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect for a birthday 🎂",
+      "text": "Another nice gift box from Amazon. With the world the way it is now I had to send a gift rather than going to a party. And Amazon has a good selection of gift boxes and fast shipping so my nephew was happy when he received the card in the mail.",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1589293286428,
+      "asin": "B06ZY43PDR",
+      "id": "gc-000071",
+      "source_line": 71,
+      "rating": 5,
+      "model_input": {
+        "title": "Perfect for a birthday 🎂",
+        "text": "Another nice gift box from Amazon. With the world the way it is now I had to send a gift rather than going to a party. And Amazon has a good selection of gift boxes and fast shipping so my nephew was happy when he received the card in the mail."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect!",
+      "text": "Bought this for a gift and was very happy it shipped quickly and they received it just in time! Amazon is awesome! 🤩",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1586487627890,
+      "asin": "B07FKKBFHS",
+      "id": "gc-000072",
+      "source_line": 72,
+      "rating": 5,
+      "model_input": {
+        "title": "Perfect!",
+        "text": "Bought this for a gift and was very happy it shipped quickly and they received it just in time! Amazon is awesome! 🤩"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift box nice!",
+      "text": "Love the gift box. So much j NB icee than just handing a gift card to the grandkids.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1621545773576,
+      "asin": "B01K8RIM5Y",
+      "id": "gc-000073",
+      "source_line": 73,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift box nice!",
+        "text": "Love the gift box. So much j NB icee than just handing a gift card to the grandkids."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "It was soooo easy",
+      "text": "It was a nice way to give a present",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1672080764246,
+      "asin": "B086KKT3RX",
+      "id": "gc-000074",
+      "source_line": 74,
+      "rating": 5,
+      "model_input": {
+        "title": "It was soooo easy",
+        "text": "It was a nice way to give a present"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "great",
+      "text": "great buy",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1477509546000,
+      "asin": "B005ESMGZU",
+      "id": "gc-000075",
+      "source_line": 75,
+      "rating": 5,
+      "model_input": {
+        "title": "great",
+        "text": "great buy"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Amazon Thinks of Everything!",
+      "text": "GREAT idea!  I was so happy to have these on hand for the Holidays!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1420299448000,
+      "asin": "B00IT0NO10",
+      "id": "gc-000076",
+      "source_line": 76,
+      "rating": 5,
+      "model_input": {
+        "title": "Amazon Thinks of Everything!",
+        "text": "GREAT idea!  I was so happy to have these on hand for the Holidays!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Amazon lover giftee?  Buy it!",
+      "text": "So gift card for certain sum.  No service fee.  Lively metal gift box - yes..... I said metal.  What is not to love about this???!<br /><br />Well done Amazon.  Well done.",
+      "verified_purchase": true,
+      "helpful_vote": 8,
+      "timestamp": 1668525273215,
+      "asin": "B0866QM41K",
+      "id": "gc-000077",
+      "source_line": 77,
+      "rating": 5,
+      "model_input": {
+        "title": "Amazon lover giftee?  Buy it!",
+        "text": "So gift card for certain sum.  No service fee.  Lively metal gift box - yes..... I said metal.  What is not to love about this???!<br /><br />Well done Amazon.  Well done."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Timing",
+      "text": "Great timing.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1595375222310,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000078",
+      "source_line": 78,
+      "rating": 5,
+      "model_input": {
+        "title": "Timing",
+        "text": "Great timing."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Was easy to do",
+      "text": "Easy to use",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1663344696022,
+      "asin": "B086KKT3RX",
+      "id": "gc-000079",
+      "source_line": 79,
+      "rating": 5,
+      "model_input": {
+        "title": "Was easy to do",
+        "text": "Easy to use"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "PENGUINS",
+      "text": "So so cute!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1562018433133,
+      "asin": "B07FKK8SFR",
+      "id": "gc-000080",
+      "source_line": 80,
+      "rating": 5,
+      "model_input": {
+        "title": "PENGUINS",
+        "text": "So so cute!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Believe this is the best gift to give !",
+      "text": "The recipient can choose what they want so the giver has less chance of a mistake.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1641851447007,
+      "asin": "B0866QM41K",
+      "id": "gc-000081",
+      "source_line": 81,
+      "rating": 5,
+      "model_input": {
+        "title": "Believe this is the best gift to give !",
+        "text": "The recipient can choose what they want so the giver has less chance of a mistake."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "convenient",
+      "text": "A great and convenient gift idea-price is right too!",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1543687172883,
+      "asin": "B01MSBQB1P",
+      "id": "gc-000082",
+      "source_line": 82,
+      "rating": 5,
+      "model_input": {
+        "title": "convenient",
+        "text": "A great and convenient gift idea-price is right too!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "The gift card came in a pretty box.<br />Thanks Amozan.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1433222082000,
+      "asin": "B005ESMM04",
+      "id": "gc-000083",
+      "source_line": 83,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "The gift card came in a pretty box.<br />Thanks Amozan."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Best gift for someone you don’t know what to get",
+      "text": "This was for a gift",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1554486530782,
+      "asin": "B07641P3WL",
+      "id": "gc-000084",
+      "source_line": 84,
+      "rating": 5,
+      "model_input": {
+        "title": "Best gift for someone you don’t know what to get",
+        "text": "This was for a gift"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great value",
+      "text": "Made my shopping much better good value",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1545524073920,
+      "asin": "B07674CBVT",
+      "id": "gc-000085",
+      "source_line": 85,
+      "rating": 5,
+      "model_input": {
+        "title": "Great value",
+        "text": "Made my shopping much better good value"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Sweet gift!",
+      "text": "I sent this to my brother and he couldn't stop talking about it. This boxes puts a little more nice into a gift. Very pretty!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1646497576623,
+      "asin": "B07DDC8FJM",
+      "id": "gc-000086",
+      "source_line": 86,
+      "rating": 5,
+      "model_input": {
+        "title": "Sweet gift!",
+        "text": "I sent this to my brother and he couldn't stop talking about it. This boxes puts a little more nice into a gift. Very pretty!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Amazing",
+      "text": "It can be used for a variety of things.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1665847374516,
+      "asin": "B07HJD9FVV",
+      "id": "gc-000087",
+      "source_line": 87,
+      "rating": 5,
+      "model_input": {
+        "title": "Amazing",
+        "text": "It can be used for a variety of things."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great Holder",
+      "text": "Great holder for gift cards",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1676604832230,
+      "asin": "B07FK7L976",
+      "id": "gc-000088",
+      "source_line": 88,
+      "rating": 5,
+      "model_input": {
+        "title": "Great Holder",
+        "text": "Great holder for gift cards"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Makes these so easy for any holiday and especially stops buying something people do not like",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1575672071594,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-000089",
+      "source_line": 89,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Makes these so easy for any holiday and especially stops buying something people do not like"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Starbuck gift card",
+      "text": "My friend like the gift card like the sweater for holiday card",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1515887714780,
+      "asin": "B076ZTSX5V",
+      "id": "gc-000090",
+      "source_line": 90,
+      "rating": 5,
+      "model_input": {
+        "title": "Starbuck gift card",
+        "text": "My friend like the gift card like the sweater for holiday card"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good litte thank-you gifts",
+      "text": "I'm happy they did not cost me more than their face value to buy. I gave them out as a nice thank you to those who helped me with small things around my house. I sent them in the mail as a surprise, knowing money or gifts was not necessary. I recommend them.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1653086469676,
+      "asin": "B00FTGTM5E",
+      "id": "gc-000091",
+      "source_line": 91,
+      "rating": 5,
+      "model_input": {
+        "title": "Good litte thank-you gifts",
+        "text": "I'm happy they did not cost me more than their face value to buy. I gave them out as a nice thank you to those who helped me with small things around my house. I sent them in the mail as a surprise, knowing money or gifts was not necessary. I recommend them."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Okay as a gift",
+      "text": "After I bought several I realized I could have sent \"gift\" money via text without the fees or wait.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1641431818335,
+      "asin": "B07GH6WX29",
+      "id": "gc-000092",
+      "source_line": 92,
+      "rating": 3,
+      "model_input": {
+        "title": "Okay as a gift",
+        "text": "After I bought several I realized I could have sent \"gift\" money via text without the fees or wait."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good gift",
+      "text": "Those who already have everything, they can buy an audible book, an old rerun of a favorite movie, some little thing they may want, or whatever as a gift for any occasion. I recommend.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1629478719766,
+      "asin": "B07FMJVVKW",
+      "id": "gc-000093",
+      "source_line": 93,
+      "rating": 5,
+      "model_input": {
+        "title": "Good gift",
+        "text": "Those who already have everything, they can buy an audible book, an old rerun of a favorite movie, some little thing they may want, or whatever as a gift for any occasion. I recommend."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "So convenient.",
+      "text": "Arrived on time, in perfect shape, and best of all the person receiving the gift can buy whatever they want. One size fits all!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1617599581065,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-000094",
+      "source_line": 94,
+      "rating": 5,
+      "model_input": {
+        "title": "So convenient.",
+        "text": "Arrived on time, in perfect shape, and best of all the person receiving the gift can buy whatever they want. One size fits all!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Just what was ordered.",
+      "text": "Made holiday shopping easy!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1577392181310,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000095",
+      "source_line": 95,
+      "rating": 5,
+      "model_input": {
+        "title": "Just what was ordered.",
+        "text": "Made holiday shopping easy!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Can Do It From Home",
+      "text": "Usually I either receive an Amazon gift card as a birthday and/or Christmas gift or I purchase them at a store. Then it's very easy to add the amount to my gift card balance using my cell phone. Well I was stuck inside for several days due to a blizzard and I bought quite a few books then due to a travel ban I could not go to the store to purchase a gift card.<br />So after checking my Gift Card Balance I saw that I had overindulged and it needed to be topped up. One of the options under Manage Your Balance was to Reload Your Balance. I had never used this option but decided to try it. It was so easy to do and I didn't have to leave the comfort of my home. I will be using it again in the future.",
+      "verified_purchase": true,
+      "helpful_vote": 17,
+      "timestamp": 1672950892238,
+      "asin": "B086KKT3RX",
+      "id": "gc-000096",
+      "source_line": 96,
+      "rating": 5,
+      "model_input": {
+        "title": "Can Do It From Home",
+        "text": "Usually I either receive an Amazon gift card as a birthday and/or Christmas gift or I purchase them at a store. Then it's very easy to add the amount to my gift card balance using my cell phone. Well I was stuck inside for several days due to a blizzard and I bought quite a few books then due to a travel ban I could not go to the store to purchase a gift card.<br />So after checking my Gift Card Balance I saw that I had overindulged and it needed to be topped up. One of the options under Manage Your Balance was to Reload Your Balance. I had never used this option but decided to try it. It was so easy to do and I didn't have to leave the comfort of my home. I will be using it again in the future."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Love it!",
+      "text": "Love my card!!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1515196533758,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000097",
+      "source_line": 97,
+      "rating": 5,
+      "model_input": {
+        "title": "Love it!",
+        "text": "Love my card!!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy to use",
+      "text": "It’s easy to use and very convenient. I would definitely consider refill more in the future",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1640899215732,
+      "asin": "B086KKT3RX",
+      "id": "gc-000098",
+      "source_line": 98,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy to use",
+        "text": "It’s easy to use and very convenient. I would definitely consider refill more in the future"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy to use",
+      "text": "Very easy to use. I wish I knew about it earlier",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1593396124170,
+      "asin": "B00IX1I3G6",
+      "id": "gc-000099",
+      "source_line": 99,
+      "rating": 3,
+      "model_input": {
+        "title": "Easy to use",
+        "text": "Very easy to use. I wish I knew about it earlier"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect gift sent I a lovely container",
+      "text": "Sent in a lovely container",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1637786399508,
+      "asin": "B01K8RJDEI",
+      "id": "gc-000100",
+      "source_line": 100,
+      "rating": 5,
+      "model_input": {
+        "title": "Perfect gift sent I a lovely container",
+        "text": "Sent in a lovely container"
+      },
+      "rating_masked": false
+    }
+  ],
+  "three_class": [
+    {
+      "title": "Leave yourself time to match gifts to recipients!",
+      "text": "Gift card tin arrived with Santa bag on time. However, the recipient information was tossed in the package without any reference to the actual gifts. Luckily I knew which tag went with which gift, and the gift values weee the same. However, this was a problem for gifts sent directly to recipients. The only gifts which were properly marked were the gift-wrapped items, but even those arrived with extra recipient tags adding to confusion. We should not have to build-a-gift at these prices. Amazon, you can do much better than this!",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1545701939305,
+      "asin": "B01E4QQAWW",
+      "id": "gc-102814",
+      "source_line": 102814,
+      "rating": 3,
+      "model_input": {
+        "title": "Leave yourself time to match gifts to recipients!",
+        "text": "Gift card tin arrived with Santa bag on time. However, the recipient information was tossed in the package without any reference to the actual gifts. Luckily I knew which tag went with which gift, and the gift values weee the same. However, this was a problem for gifts sent directly to recipients. The only gifts which were properly marked were the gift-wrapped items, but even those arrived with extra recipient tags adding to confusion. We should not have to build-a-gift at these prices. Amazon, you can do much better than this!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Four Stars",
+      "text": "Granddaughter was very happy with it.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1484581508000,
+      "asin": "B00BXLTUUG",
+      "id": "gc-148765",
+      "source_line": 148765,
+      "rating": 4,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Granddaughter was very happy with it."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Ease of  use.",
+      "text": "It is so easy load. No problems at all.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1602528202033,
+      "asin": "B00IX1I3G6",
+      "id": "gc-041362",
+      "source_line": 41362,
+      "rating": 4,
+      "model_input": {
+        "title": "Ease of  use.",
+        "text": "It is so easy load. No problems at all."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Always a hit",
+      "text": "Great gift",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1657403633608,
+      "asin": "B072F9T6VX",
+      "id": "gc-027652",
+      "source_line": 27652,
+      "rating": 5,
+      "model_input": {
+        "title": "Always a hit",
+        "text": "Great gift"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Four Stars",
+      "text": "I liked the design.  It was easy to obtain and didn't need additional gift wrapping.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1483469385000,
+      "asin": "B01K8RK2KW",
+      "id": "gc-067518",
+      "source_line": 67518,
+      "rating": 4,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "I liked the design.  It was easy to obtain and didn't need additional gift wrapping."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Excellent",
+      "text": "Loved it",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1673799526033,
+      "asin": "B06ZY44YG4",
+      "id": "gc-014529",
+      "source_line": 14529,
+      "rating": 5,
+      "model_input": {
+        "title": "Excellent",
+        "text": "Loved it"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy gift giving",
+      "text": "Nice",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1541903206916,
+      "asin": "B00CXZPG0O",
+      "id": "gc-049111",
+      "source_line": 49111,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy gift giving",
+        "text": "Nice"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Attractive box and good gift for friends",
+      "text": "It's always a good gift to thank friends. No other item is better than an Amazon gift card I believe. The gift box is attractive and good appearance.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1627403605150,
+      "asin": "B01K8RMDO0",
+      "id": "gc-090351",
+      "source_line": 90351,
+      "rating": 3,
+      "model_input": {
+        "title": "Attractive box and good gift for friends",
+        "text": "It's always a good gift to thank friends. No other item is better than an Amazon gift card I believe. The gift box is attractive and good appearance."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card arrived water damaged",
+      "text": "Gift card arrived water damaged even though it was within plastic wrapping. Could not give it as a gift.",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1590176384122,
+      "asin": "B077T9WSSN",
+      "id": "gc-087290",
+      "source_line": 87290,
+      "rating": 1,
+      "model_input": {
+        "title": "Gift card arrived water damaged",
+        "text": "Gift card arrived water damaged even though it was within plastic wrapping. Could not give it as a gift."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Don’t travel with Amazon credits.",
+      "text": "I tried to add some funds to purchase a movie and it let me add the funds but not use them to purchase the movies because I was out of the country when attempting this.  So I’ll go back to using Netflix which works wherever I go.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1598574164204,
+      "asin": "B00IX1I3G6",
+      "id": "gc-047095",
+      "source_line": 47095,
+      "rating": 1,
+      "model_input": {
+        "title": "Don’t travel with Amazon credits.",
+        "text": "I tried to add some funds to purchase a movie and it let me add the funds but not use them to purchase the movies because I was out of the country when attempting this.  So I’ll go back to using Netflix which works wherever I go."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Convenient",
+      "text": "The presentation tin was very nice.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1517369204923,
+      "asin": "B01K8RJDEI",
+      "id": "gc-069248",
+      "source_line": 69248,
+      "rating": 5,
+      "model_input": {
+        "title": "Convenient",
+        "text": "The presentation tin was very nice."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "There was zero balance on card! It was supose to be $25.000 gift card!",
+      "text": "There was zero balance on gift card! It should have been $25.00. She went to use it and there was supose to be a  card with it and no card to say who was from! This needs to be corrected. .",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1640406134674,
+      "asin": "B01K8RJDEI",
+      "id": "gc-066453",
+      "source_line": 66453,
+      "rating": 3,
+      "model_input": {
+        "title": "There was zero balance on card! It was supose to be $25.000 gift card!",
+        "text": "There was zero balance on gift card! It should have been $25.00. She went to use it and there was supose to be a  card with it and no card to say who was from! This needs to be corrected. ."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Santa Gift Card Box",
+      "text": "Great gift card presentation device.  However, the paint on edges of the lids was marred/chipped.  Ordered replacements still not perfect.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1389367112000,
+      "asin": "B0091JKY0M",
+      "id": "gc-137864",
+      "source_line": 137864,
+      "rating": 3,
+      "model_input": {
+        "title": "Santa Gift Card Box",
+        "text": "Great gift card presentation device.  However, the paint on edges of the lids was marred/chipped.  Ordered replacements still not perfect."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "damaged",
+      "text": "Bought this as a gift for my grandson's birthday.  The gift card looks OK, but the Happy Birthday gift card holder was ripped and looks awful.  I'll have to tape it together, which will make for a lousy presentation.  Disappointing.",
+      "verified_purchase": true,
+      "helpful_vote": 6,
+      "timestamp": 1568850934769,
+      "asin": "B01K8RL9C2",
+      "id": "gc-029776",
+      "source_line": 29776,
+      "rating": 1,
+      "model_input": {
+        "title": "damaged",
+        "text": "Bought this as a gift for my grandson's birthday.  The gift card looks OK, but the Happy Birthday gift card holder was ripped and looks awful.  I'll have to tape it together, which will make for a lousy presentation.  Disappointing."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great gift",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1484059656000,
+      "asin": "B01DCN6SFM",
+      "id": "gc-031152",
+      "source_line": 31152,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Great gift"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Great idea for a grad...",
+      "text": "Ordered 2...one was fine the other damaged.  I am sure the recent grad wont care...just frustrating.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1527897073180,
+      "asin": "B01B25LC7Q",
+      "id": "gc-126733",
+      "source_line": 126733,
+      "rating": 3,
+      "model_input": {
+        "title": "Great idea for a grad...",
+        "text": "Ordered 2...one was fine the other damaged.  I am sure the recent grad wont care...just frustrating."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Excellent seller and product",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1640652354736,
+      "asin": "B01K8RMDO0",
+      "id": "gc-032438",
+      "source_line": 32438,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Excellent seller and product"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Box was crushed.",
+      "text": "The box was in terrible shape. I could not use it with the gift card.🙁",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1590019271382,
+      "asin": "B008EN45YW",
+      "id": "gc-063279",
+      "source_line": 63279,
+      "rating": 1,
+      "model_input": {
+        "title": "Box was crushed.",
+        "text": "The box was in terrible shape. I could not use it with the gift card.🙁"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great for spending. Not great for sinking in jello",
+      "text": "I put this gift card in jello for my sisters-in-laws birthday... the tin floats. Man did i not see that coming. If you buy this to put it in jello, maybe get some rocks for the inside. Otherwise it will float. Clearly a stapler is easier to use. The card spends great tho! Highly recommend if you don’t need to put in jello... also still recommend if you do need to put it in jello.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1607756239972,
+      "asin": "B0866RXCBJ",
+      "id": "gc-022975",
+      "source_line": 22975,
+      "rating": 5,
+      "model_input": {
+        "title": "Great for spending. Not great for sinking in jello",
+        "text": "I put this gift card in jello for my sisters-in-laws birthday... the tin floats. Man did i not see that coming. If you buy this to put it in jello, maybe get some rocks for the inside. Otherwise it will float. Clearly a stapler is easier to use. The card spends great tho! Highly recommend if you don’t need to put in jello... also still recommend if you do need to put it in jello."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Awesome",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1580873317179,
+      "asin": "B072P5VV4D",
+      "id": "gc-147566",
+      "source_line": 147566,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Awesome"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Don’t expect this card to function like a typical Visa",
+      "text": "Don’t buy this card. This card doesn’t work with Apple Wallet (cannot get added). It doesn’t work at gas station either. I ended up adding it back to my Amazon account.",
+      "verified_purchase": true,
+      "helpful_vote": 3,
+      "timestamp": 1599334136329,
+      "asin": "B07HJD9FVV",
+      "id": "gc-018871",
+      "source_line": 18871,
+      "rating": 1,
+      "model_input": {
+        "title": "Don’t expect this card to function like a typical Visa",
+        "text": "Don’t buy this card. This card doesn’t work with Apple Wallet (cannot get added). It doesn’t work at gas station either. I ended up adding it back to my Amazon account."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One card was empty",
+      "text": "I have them as gifts but one card has nothing on it",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1649420879823,
+      "asin": "B00FTGFFOG",
+      "id": "gc-132501",
+      "source_line": 132501,
+      "rating": 1,
+      "model_input": {
+        "title": "One card was empty",
+        "text": "I have them as gifts but one card has nothing on it"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Good value",
+      "text": "Good value",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1583180393589,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-012466",
+      "source_line": 12466,
+      "rating": 3,
+      "model_input": {
+        "title": "Good value",
+        "text": "Good value"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Perfect gift for anyone.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1424121658000,
+      "asin": "B001H53QDU",
+      "id": "gc-043306",
+      "source_line": 43306,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Perfect gift for anyone."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Good",
+      "text": "Ok",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1656898112244,
+      "asin": "B086KKT3RX",
+      "id": "gc-102765",
+      "source_line": 102765,
+      "rating": 3,
+      "model_input": {
+        "title": "Good",
+        "text": "Ok"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "There's truly little reason to buy a Fandango gift card ...",
+      "text": "There's truly little reason to buy a Fandango gift card.  About 20% of it goes to &#34;Convenience Fees&#34;.  Just buy a gift card to the theater directly.",
+      "verified_purchase": false,
+      "helpful_vote": 3,
+      "timestamp": 1451248158000,
+      "asin": "B00S5J8456",
+      "id": "gc-086392",
+      "source_line": 86392,
+      "rating": 1,
+      "model_input": {
+        "title": "There's truly little reason to buy a Fandango gift card ...",
+        "text": "There's truly little reason to buy a Fandango gift card.  About 20% of it goes to &#34;Convenience Fees&#34;.  Just buy a gift card to the theater directly."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "DON'T BUY, UNUSABLE",
+      "text": "Worthless, can't be used towards any type of special spotify account (Student, family etc.).<br /><br />Also couldn't be returned after I discovered this trap.<br /><br />Spotify are a bunch of blood sucking leeches who deserve more 1 star ratings for this. I'm literally canceling my own spotify premium and switching to Pandora just because of this putrid experience.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1526692036035,
+      "asin": "B00G3LBDDS",
+      "id": "gc-132751",
+      "source_line": 132751,
+      "rating": 1,
+      "model_input": {
+        "title": "DON'T BUY, UNUSABLE",
+        "text": "Worthless, can't be used towards any type of special spotify account (Student, family etc.).<br /><br />Also couldn't be returned after I discovered this trap.<br /><br />Spotify are a bunch of blood sucking leeches who deserve more [rating omitted] ratings for this. I'm literally canceling my own spotify premium and switching to Pandora just because of this putrid experience."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Hassle free Christmas",
+      "text": "I’m happy with my purchase. It made giving Christmas gifts so much easier to just buy this gift card online and get it delivered to my family member. This made my life so much easier and I’m glad I didn’t have to go out into traffic to get it.",
+      "verified_purchase": true,
+      "helpful_vote": 3,
+      "timestamp": 1524765805055,
+      "asin": "B076CXY1MN",
+      "id": "gc-084579",
+      "source_line": 84579,
+      "rating": 5,
+      "model_input": {
+        "title": "Hassle free Christmas",
+        "text": "I’m happy with my purchase. It made giving Christmas gifts so much easier to just buy this gift card online and get it delivered to my family member. This made my life so much easier and I’m glad I didn’t have to go out into traffic to get it."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Three Stars",
+      "text": "This tin came all dented.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1451493858000,
+      "asin": "B00JDQKELW",
+      "id": "gc-128934",
+      "source_line": 128934,
+      "rating": 3,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "This tin came all dented."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Beautiful box for presentation.",
+      "text": "Kind of hard to open, would prefer it to open on the top.?",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1559263687271,
+      "asin": "B06ZYZ1TKK",
+      "id": "gc-131243",
+      "source_line": 131243,
+      "rating": 3,
+      "model_input": {
+        "title": "Beautiful box for presentation.",
+        "text": "Kind of hard to open, would prefer it to open on the top.?"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Amazon, really,  you can do better than this!!",
+      "text": "It is a rip off!  I should have read the reviews.  Amazon, really, you can do better than this.... my trust level for your company just went down.  This is the second time this month I have bought a non returnable item from Amazon.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1642985642928,
+      "asin": "B07Q8KN5TJ",
+      "id": "gc-124705",
+      "source_line": 124705,
+      "rating": 1,
+      "model_input": {
+        "title": "Amazon, really,  you can do better than this!!",
+        "text": "It is a rip off!  I should have read the reviews.  Amazon, really, you can do better than this.... my trust level for your company just went down.  This is the second time this month I have bought a non returnable item from Amazon."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Scam",
+      "text": "Do not buy.  If you search gift car this comes up.  Thought I was buying 500 gift card to give away, instead it put it on my account.  I dealt with amazon chat and was told they are unable to return it or take it back and that I would have to purchase another gift card.  So I went and got my actual gift card went to checkout.... cannot use gift card balance to buy a gift card.  Ridiculous amazon cannot undo this purchase",
+      "verified_purchase": true,
+      "helpful_vote": 3,
+      "timestamp": 1670107240960,
+      "asin": "B086KKT3RX",
+      "id": "gc-105657",
+      "source_line": 105657,
+      "rating": 1,
+      "model_input": {
+        "title": "Scam",
+        "text": "Do not buy.  If you search gift car this comes up.  Thought I was buying 500 gift card to give away, instead it put it on my account.  I dealt with amazon chat and was told they are unable to return it or take it back and that I would have to purchase another gift card.  So I went and got my actual gift card went to checkout.... cannot use gift card balance to buy a gift card.  Ridiculous amazon cannot undo this purchase"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "misleading",
+      "text": "Figured out that this whole mess was because there were more than a card in some of the boxes (one worked, the other not).",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1608259026165,
+      "asin": "B07FK7L976",
+      "id": "gc-064683",
+      "source_line": 64683,
+      "rating": 3,
+      "model_input": {
+        "title": "misleading",
+        "text": "Figured out that this whole mess was because there were more than a card in some of the boxes (one worked, the other not)."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Love the iTunes but no good 😢",
+      "text": "The numbers & letters is wrong I want a new<br />$200.00 card. Because the one I have look like someone had used it. I scratch it off but someone<br />knew the numbers, letters I was the one scratch it off",
+      "verified_purchase": true,
+      "helpful_vote": 4,
+      "timestamp": 1509461720896,
+      "asin": "B075H1SPZH",
+      "id": "gc-023069",
+      "source_line": 23069,
+      "rating": 1,
+      "model_input": {
+        "title": "Love the iTunes but no good 😢",
+        "text": "The numbers & letters is wrong I want a new<br />$200.00 card. Because the one I have look like someone had used it. I scratch it off but someone<br />knew the numbers, letters I was the one scratch it off"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "an easy way to add money to my account",
+      "text": "a thumbs up",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1540911171168,
+      "asin": "B00IX1I3G6",
+      "id": "gc-048445",
+      "source_line": 48445,
+      "rating": 5,
+      "model_input": {
+        "title": "an easy way to add money to my account",
+        "text": "a thumbs up"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "OK Gift Card",
+      "text": "OK Gift Card but the package was damaged",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1600899458165,
+      "asin": "B01K8RMDO0",
+      "id": "gc-091556",
+      "source_line": 91556,
+      "rating": 3,
+      "model_input": {
+        "title": "OK Gift Card",
+        "text": "OK Gift Card but the package was damaged"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Cute Box",
+      "text": "Who doesn't love an amazon card",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1551726887907,
+      "asin": "B07FK7L976",
+      "id": "gc-017623",
+      "source_line": 17623,
+      "rating": 5,
+      "model_input": {
+        "title": "Cute Box",
+        "text": "Who doesn't love an amazon card"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Almost threw it in the trash! Needs better labeling on outside envelope.",
+      "text": "I love Amazon and shop continuously on it.  I bought a gift card for my mom for Xmas and the tracking info actually said I would get it one day earlier than the other products I ordered at the same time.  So when a non descript sealed envelope came in a box with something else I tossed it on the counter thinking it was junk mail like so many other companies send with their products.  I actually forgot about the GC as I expected it to come snail mail solo.  So this envelope sat for a few days and as I was tossing it into the recycle bin I decided to tear it open.  What to my surprise was inside but another envelope, the holiday card and gift card.  Wow was I surprised.  Since the outside envelope is just packaging it should be better labeled as to the contents.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1388113653000,
+      "asin": "B005J04340",
+      "id": "gc-035757",
+      "source_line": 35757,
+      "rating": 3,
+      "model_input": {
+        "title": "Almost threw it in the trash! Needs better labeling on outside envelope.",
+        "text": "I love Amazon and shop continuously on it.  I bought a gift card for my mom for Xmas and the tracking info actually said I would get it one day earlier than the other products I ordered at the same time.  So when a non descript sealed envelope came in a box with something else I tossed it on the counter thinking it was junk mail like so many other companies send with their products.  I actually forgot about the GC as I expected it to come snail mail solo.  So this envelope sat for a few days and as I was tossing it into the recycle bin I decided to tear it open.  What to my surprise was inside but another envelope, the holiday card and gift card.  Wow was I surprised.  Since the outside envelope is just packaging it should be better labeled as to the contents."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Very nice.",
+      "text": "Arrived next day. Cool little tin. People really liked the packaging. Nice addition to the standard gift card. Definitely will buy again.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1389924014000,
+      "asin": "B0091JKY0M",
+      "id": "gc-136513",
+      "source_line": 136513,
+      "rating": 5,
+      "model_input": {
+        "title": "Very nice.",
+        "text": "Arrived next day. Cool little tin. People really liked the packaging. Nice addition to the standard gift card. Definitely will buy again."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Need be more Attractive!!!",
+      "text": "Can be a little more attractive for kids.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1603345620542,
+      "asin": "B0727VWLZ9",
+      "id": "gc-009320",
+      "source_line": 9320,
+      "rating": 3,
+      "model_input": {
+        "title": "Need be more Attractive!!!",
+        "text": "Can be a little more attractive for kids."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Fast and easy.",
+      "text": "A last minute gift for Christmas.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1642572329971,
+      "asin": "B0725J7VW7",
+      "id": "gc-066678",
+      "source_line": 66678,
+      "rating": 5,
+      "model_input": {
+        "title": "Fast and easy.",
+        "text": "A last minute gift for Christmas."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "gift card",
+      "text": "It makes it quick and easy when I add money for my in app purchases",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1427221074000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-094271",
+      "source_line": 94271,
+      "rating": 5,
+      "model_input": {
+        "title": "gift card",
+        "text": "It makes it quick and easy when I add money for my in app purchases"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift card",
+      "text": "Easy to use and reload",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1599654034661,
+      "asin": "B00IX1I3G6",
+      "id": "gc-011101",
+      "source_line": 11101,
+      "rating": 3,
+      "model_input": {
+        "title": "Gift card",
+        "text": "Easy to use and reload"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Loved how easy it is to use",
+      "text": "It was super easy to top up and super giftable",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1673981864252,
+      "asin": "B086KKT3RX",
+      "id": "gc-123544",
+      "source_line": 123544,
+      "rating": 5,
+      "model_input": {
+        "title": "Loved how easy it is to use",
+        "text": "It was super easy to top up and super giftable"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "how",
+      "text": "dont know  when to reload..never comes up how to use and reload..am i getting my moneys worth as i don't know..no feed back on this",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1593364391560,
+      "asin": "B00IX1I3G6",
+      "id": "gc-113096",
+      "source_line": 113096,
+      "rating": 2,
+      "model_input": {
+        "title": "how",
+        "text": "dont know  when to reload..never comes up how to use and reload..am i getting my moneys worth as i don't know..no feed back on this"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "not unusually",
+      "text": "unlike nothing, it was not special , I brought these for my spouse, he said the food was better in NJ",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1396213672000,
+      "asin": "B00BXLSZPM",
+      "id": "gc-098185",
+      "source_line": 98185,
+      "rating": 3,
+      "model_input": {
+        "title": "not unusually",
+        "text": "unlike nothing, it was not special , I brought these for my spouse, he said the food was better in NJ"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Auto-Renewal caused a big problem",
+      "text": "Even though the price was great, I can't recommend purchasing Office 365 through Amazon.  Cancelling the auto-renewal was easy but in the eyes of MS, my office account was locked to Amazon.  Took lengthy phone calls with MS support over several weeks to resolve.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1675531854579,
+      "asin": "B081BN3MG6",
+      "id": "gc-033987",
+      "source_line": 33987,
+      "rating": 1,
+      "model_input": {
+        "title": "Auto-Renewal caused a big problem",
+        "text": "Even though the price was great, I can't recommend purchasing Office 365 through Amazon.  Cancelling the auto-renewal was easy but in the eyes of MS, my office account was locked to Amazon.  Took lengthy phone calls with MS support over several weeks to resolve."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "It's not the product, it's how the package was handled/delivered",
+      "text": "The gift cards are great. The only reason for the 3star review is how I got my package.... All of the tin Santa cases for the gift cards are all dented... The package I received had over 9 delivery stickers on it and was delayed for more than 6 days. There was no weather problems during those days....",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1608822320040,
+      "asin": "B0725JM87R",
+      "id": "gc-066165",
+      "source_line": 66165,
+      "rating": 3,
+      "model_input": {
+        "title": "It's not the product, it's how the package was handled/delivered",
+        "text": "The gift cards are great. The only reason for the [rating omitted] review is how I got my package.... All of the tin Santa cases for the gift cards are all dented... The package I received had over 9 delivery stickers on it and was delayed for more than 6 days. There was no weather problems during those days...."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "As expected",
+      "text": "As expected",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1641690696848,
+      "asin": "B00IX1I3G6",
+      "id": "gc-011607",
+      "source_line": 11607,
+      "rating": 3,
+      "model_input": {
+        "title": "As expected",
+        "text": "As expected"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "real benefits, thanks",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1504487625384,
+      "asin": "B00IX1I3G6",
+      "id": "gc-144676",
+      "source_line": 144676,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "real benefits, thanks"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Thank",
+      "text": "Thank",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1590747947645,
+      "asin": "B00IX1I3G6",
+      "id": "gc-072345",
+      "source_line": 72345,
+      "rating": 5,
+      "model_input": {
+        "title": "Thank",
+        "text": "Thank"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Awesome",
+      "text": "Great deal",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1626839358753,
+      "asin": "B00IX1I3G6",
+      "id": "gc-052979",
+      "source_line": 52979,
+      "rating": 5,
+      "model_input": {
+        "title": "Awesome",
+        "text": "Great deal"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Very cute!",
+      "text": "Very cute and arrived on time.",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1678111876913,
+      "asin": "B07Y93PHLP",
+      "id": "gc-150017",
+      "source_line": 150017,
+      "rating": 5,
+      "model_input": {
+        "title": "Very cute!",
+        "text": "Very cute and arrived on time."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Easy to load, was what I needed to complete a transaction",
+      "text": "I was reminded that I can reload this card to help complete a purchase that I was short of only 50 cents. It loads money in an instant, and I was able to complete the transaction to receive item the very next day. I would like to thank the rep who reminded me I can do this, because I was frustrated and would have simply cancelled my order.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1562384360537,
+      "asin": "B00IX1I3G6",
+      "id": "gc-097409",
+      "source_line": 97409,
+      "rating": 5,
+      "model_input": {
+        "title": "Easy to load, was what I needed to complete a transaction",
+        "text": "I was reminded that I can reload this card to help complete a purchase that I was short of only 50 cents. It loads money in an instant, and I was able to complete the transaction to receive item the very next day. I would like to thank the rep who reminded me I can do this, because I was frustrated and would have simply cancelled my order."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Why don’t you include the amount?!",
+      "text": "I read reviews that the total wouldn’t be on the cards. I was fine with it. Until I learned I’d have to scratch every gift card code on the back to figure out the totals. Now they look used and have to give them to my kids teachers. Ridiculous. I’d imagine these are pretty loaded In the warehouse waiting to go out? Put the amount on the plastic bag they come in. It’s really not that complicated.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1638937850161,
+      "asin": "B01LXGGQXW",
+      "id": "gc-135748",
+      "source_line": 135748,
+      "rating": 3,
+      "model_input": {
+        "title": "Why don’t you include the amount?!",
+        "text": "I read reviews that the total wouldn’t be on the cards. I was fine with it. Until I learned I’d have to scratch every gift card code on the back to figure out the totals. Now they look used and have to give them to my kids teachers. Ridiculous. I’d imagine these are pretty loaded In the warehouse waiting to go out? Put the amount on the plastic bag they come in. It’s really not that complicated."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great",
+      "text": "Great.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1585458422589,
+      "asin": "B00IX1I3G6",
+      "id": "gc-141586",
+      "source_line": 141586,
+      "rating": 5,
+      "model_input": {
+        "title": "Great",
+        "text": "Great."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Reloading my balance",
+      "text": "Love this site,never have any problems reloading.  Thank you.  C",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1480637989000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-094183",
+      "source_line": 94183,
+      "rating": 5,
+      "model_input": {
+        "title": "Reloading my balance",
+        "text": "Love this site,never have any problems reloading.  Thank you.  C"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Never received $5. bonus promised when purchased.",
+      "text": "Hi,  First, I never received the $5. bonus that I was supposed to get in November.  Second, I purchased these as Christmas gifts and because of all the reviews from people who had problems cashing the cards in, I was afraid to give them to anyone else.  I ended up applying all 3 cards to my own Amazon account.  Thank goodness they all worked but I couldn't use them as gifts.  Third, the area on the back that you are supposed to &#34;scratch&#34; off was very difficult to remove and on one card, one of the letters beneath it was almost removed as well.  I had to try a couple of times before I got the right letter & the card finally was approved.  I would not take a chance on an &#34;offer&#34; like this from Amazon again.",
+      "verified_purchase": true,
+      "helpful_vote": 5,
+      "timestamp": 1385953250000,
+      "asin": "B005FGQIL4",
+      "id": "gc-057342",
+      "source_line": 57342,
+      "rating": 1,
+      "model_input": {
+        "title": "Never received $5. bonus promised when purchased.",
+        "text": "Hi,  First, I never received the $5. bonus that I was supposed to get in November.  Second, I purchased these as Christmas gifts and because of all the reviews from people who had problems cashing the cards in, I was afraid to give them to anyone else.  I ended up applying all 3 cards to my own Amazon account.  Thank goodness they all worked but I couldn't use them as gifts.  Third, the area on the back that you are supposed to &#34;scratch&#34; off was very difficult to remove and on one card, one of the letters beneath it was almost removed as well.  I had to try a couple of times before I got the right letter & the card finally was approved.  I would not take a chance on an &#34;offer&#34; like this from Amazon again."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Mystery Gift",
+      "text": "My daughter was gifted a card and has no way to determine value without redeeming!",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1595215551630,
+      "asin": "B06WVJBLBQ",
+      "id": "gc-088278",
+      "source_line": 88278,
+      "rating": 1,
+      "model_input": {
+        "title": "Mystery Gift",
+        "text": "My daughter was gifted a card and has no way to determine value without redeeming!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One Star",
+      "text": "This card was not activated for use. Could not return it.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1483405930000,
+      "asin": "B00G3LBDDS",
+      "id": "gc-151039",
+      "source_line": 151039,
+      "rating": 1,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "This card was not activated for use. Could not return it."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Oh boy!",
+      "text": "Good stuff.",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1544736988179,
+      "asin": "B00S5J8456",
+      "id": "gc-148302",
+      "source_line": 148302,
+      "rating": 3,
+      "model_input": {
+        "title": "Oh boy!",
+        "text": "Good stuff."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "$100 Amazon gift card",
+      "text": "Excellent!  Design was nice",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1673314925846,
+      "asin": "B07DD6YZ7H",
+      "id": "gc-121634",
+      "source_line": 121634,
+      "rating": 5,
+      "model_input": {
+        "title": "$100 Amazon gift card",
+        "text": "Excellent!  Design was nice"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One Star",
+      "text": "i couldnt pre-order mp3 album with it",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1461441491000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-119798",
+      "source_line": 119798,
+      "rating": 1,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "i couldnt pre-order mp3 album with it"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Gift cards are neat",
+      "text": "They're gift cards. Woohoo you payed to put money on a card. I know I did it. It was for good reason though.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1612287355830,
+      "asin": "B07HJD9FVV",
+      "id": "gc-083032",
+      "source_line": 83032,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift cards are neat",
+        "text": "They're gift cards. Woohoo you payed to put money on a card. I know I did it. It was for good reason though."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Complete disregard to product quality.",
+      "text": "What a cutesy design on the product's page, right? I ordered this birthday one, and a graduation one. The graduation one was perfect; 5 stars, presentation, container, etc. This birthday one however, wasn't.<br /><br />They shipped it, WITHOUT THE OTHER CUPCAKE HALF.<br /><br />Someone shoved this half baked birthday card inside a brown envelope alongside a perfectly done one, and said \"Yep, this is fine!\"",
+      "verified_purchase": true,
+      "helpful_vote": 3,
+      "timestamp": 1626571609385,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-112404",
+      "source_line": 112404,
+      "rating": 1,
+      "model_input": {
+        "title": "Complete disregard to product quality.",
+        "text": "What a cutesy design on the product's page, right? I ordered this birthday one, and a graduation one. The graduation one was perfect; [rating omitted], presentation, container, etc. This birthday one however, wasn't.<br /><br />They shipped it, WITHOUT THE OTHER CUPCAKE HALF.<br /><br />Someone shoved this half baked birthday card inside a brown envelope alongside a perfectly done one, and said \"Yep, this is fine!\""
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "I gave these as christmas gifts to my nieces and ...",
+      "text": "I gave these as christmas gifts to my nieces and nephews. They appreciated the gift and credit card of their own feel. Unfortunately Auntie was expected to take them to the movies and provide a meal with this gift.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1521602210826,
+      "asin": "B00FTGCKXA",
+      "id": "gc-003319",
+      "source_line": 3319,
+      "rating": 3,
+      "model_input": {
+        "title": "I gave these as christmas gifts to my nieces and ...",
+        "text": "I gave these as christmas gifts to my nieces and nephews. They appreciated the gift and credit card of their own feel. Unfortunately Auntie was expected to take them to the movies and provide a meal with this gift."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "HORRIBLE GIFT CARD",
+      "text": "CUSTOMER SERVICE IS TERRIBLE",
+      "verified_purchase": false,
+      "helpful_vote": 2,
+      "timestamp": 1592423940985,
+      "asin": "B07HJD9FVV",
+      "id": "gc-132469",
+      "source_line": 132469,
+      "rating": 1,
+      "model_input": {
+        "title": "HORRIBLE GIFT CARD",
+        "text": "CUSTOMER SERVICE IS TERRIBLE"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "works but could be simpler",
+      "text": "works but could be simpler to use",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1645465221219,
+      "asin": "B086KKT3RX",
+      "id": "gc-046714",
+      "source_line": 46714,
+      "rating": 3,
+      "model_input": {
+        "title": "works but could be simpler",
+        "text": "works but could be simpler to use"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Card was not activated",
+      "text": "The card was not activated and by the time the person I sent it tried to use it, the card was declined and Amazon has no option to return it. I called the number on the back of the Visa card and was directed back to Amazon. $105 wasted.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1585942796937,
+      "asin": "B01MSBQB1P",
+      "id": "gc-110851",
+      "source_line": 110851,
+      "rating": 1,
+      "model_input": {
+        "title": "Card was not activated",
+        "text": "The card was not activated and by the time the person I sent it tried to use it, the card was declined and Amazon has no option to return it. I called the number on the back of the Visa card and was directed back to Amazon. $105 wasted."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "No value!",
+      "text": "Tried to purchase with the card. Said zero value.",
+      "verified_purchase": true,
+      "helpful_vote": 2,
+      "timestamp": 1606274410856,
+      "asin": "B01K8RMDO0",
+      "id": "gc-091578",
+      "source_line": 91578,
+      "rating": 1,
+      "model_input": {
+        "title": "No value!",
+        "text": "Tried to purchase with the card. Said zero value."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Cute",
+      "text": "Really cute for a birthday present.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1551835106311,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-039071",
+      "source_line": 39071,
+      "rating": 5,
+      "model_input": {
+        "title": "Cute",
+        "text": "Really cute for a birthday present."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "DIFFICULT TO USE. BRING BACK THE OLD FORMAT!",
+      "text": "DIFFICULT TO USE. BRING BACK THE OLD FORMAT!",
+      "verified_purchase": true,
+      "helpful_vote": 457,
+      "timestamp": 1628715242077,
+      "asin": "B086KKT3RX",
+      "id": "gc-092743",
+      "source_line": 92743,
+      "rating": 1,
+      "model_input": {
+        "title": "DIFFICULT TO USE. BRING BACK THE OLD FORMAT!",
+        "text": "DIFFICULT TO USE. BRING BACK THE OLD FORMAT!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great Service!!",
+      "text": "Received my card today in excellent condition and I know that I will have a very happy teenager come Christmas",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1480445480000,
+      "asin": "B00GB8LQPI",
+      "id": "gc-115160",
+      "source_line": 115160,
+      "rating": 5,
+      "model_input": {
+        "title": "Great Service!!",
+        "text": "Received my card today in excellent condition and I know that I will have a very happy teenager come Christmas"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Ok",
+      "text": "Ok",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1608175374470,
+      "asin": "B00IX1I3G6",
+      "id": "gc-022438",
+      "source_line": 22438,
+      "rating": 3,
+      "model_input": {
+        "title": "Ok",
+        "text": "Ok"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "its gift card",
+      "text": "its a gift card, not even sure why Amazon wants me to review it. It was a pain as I had credit card gift card I wanted to use and pay the remainder on my debit card, Amazon said \"no\". So I had to buy this gift card with the other gift card so I could buy my gift and pay the difference on my own card, what a pain.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1659749140144,
+      "asin": "B086KKT3RX",
+      "id": "gc-081266",
+      "source_line": 81266,
+      "rating": 3,
+      "model_input": {
+        "title": "its gift card",
+        "text": "its a gift card, not even sure why Amazon wants me to review it. It was a pain as I had credit card gift card I wanted to use and pay the remainder on my debit card, Amazon said \"no\". So I had to buy this gift card with the other gift card so I could buy my gift and pay the difference on my own card, what a pain."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Convenient service but still some confusion?",
+      "text": "The reload itself went fine but I had some problems re activating the reloaded card as my payment option. I'm still not sure how I got it to work...",
+      "verified_purchase": true,
+      "helpful_vote": 2,
+      "timestamp": 1417803664000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-113184",
+      "source_line": 113184,
+      "rating": 3,
+      "model_input": {
+        "title": "Convenient service but still some confusion?",
+        "text": "The reload itself went fine but I had some problems re activating the reloaded card as my payment option. I'm still not sure how I got it to work..."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great gift to me",
+      "text": "The design is cool. Overall GOOD.",
+      "verified_purchase": true,
+      "helpful_vote": 3,
+      "timestamp": 1612567004186,
+      "asin": "B08B3PL6B1",
+      "id": "gc-038692",
+      "source_line": 38692,
+      "rating": 3,
+      "model_input": {
+        "title": "Great gift to me",
+        "text": "The design is cool. Overall GOOD."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Look and Wait",
+      "text": "difficult to find and no verification that I was successful in using online reload but overall OK",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1440554074000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-117598",
+      "source_line": 117598,
+      "rating": 3,
+      "model_input": {
+        "title": "Look and Wait",
+        "text": "difficult to find and no verification that I was successful in using online reload but overall OK"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Could not use",
+      "text": "I don’t think it has anything on it",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1678018031465,
+      "asin": "B07MZSNBZD",
+      "id": "gc-148143",
+      "source_line": 148143,
+      "rating": 3,
+      "model_input": {
+        "title": "Could not use",
+        "text": "I don’t think it has anything on it"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Works",
+      "text": "What else can I say? It works!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1548306040514,
+      "asin": "B00IX1I3G6",
+      "id": "gc-037502",
+      "source_line": 37502,
+      "rating": 5,
+      "model_input": {
+        "title": "Works",
+        "text": "What else can I say? It works!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Do not buy",
+      "text": "This is a scam - can't be used for Spotify, it's a joke",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1544913218373,
+      "asin": "B00G3LBDDS",
+      "id": "gc-004219",
+      "source_line": 4219,
+      "rating": 1,
+      "model_input": {
+        "title": "Do not buy",
+        "text": "This is a scam - can't be used for Spotify, it's a joke"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Refused at some restaurants",
+      "text": "I gave four of these as gifts for Christmas.  Some restaurants will not take them.  Doesn’t make for a very good gift if you’re limited on where you can use them.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1672167639902,
+      "asin": "B01MSBQB1P",
+      "id": "gc-110675",
+      "source_line": 110675,
+      "rating": 2,
+      "model_input": {
+        "title": "Refused at some restaurants",
+        "text": "I gave four of these as gifts for Christmas.  Some restaurants will not take them.  Doesn’t make for a very good gift if you’re limited on where you can use them."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Connections Account not safe for gift cards",
+      "text": "We purchase gift cards every year from Cinemark and reload them throughout the year. We listened to the advertising and advice from Cinemark and added our giftcard to our connection account a little over a year ago. BIG MISTAKE! Cinemark does not have good protection from cyber hackers for their connection site. Thus our giftcard was hacked from the connections site and we lost $225.00 of our giftcard balance when that balance was stolen from their site and used over 800 miles a way to, I guess, have an expensive movie night out! I wish we had ignored Cinemark and their advertising as if we had just used the giftcard we purchased and taken it out of our wallet to pay and not linked the GC number to our account we would still have $225.01 that was haced.<br /><br />Cinemark also does not honor their guests. We have been treated rudely. Told musinformation, like that their loss prevention team would call yet that has never happened. Also asked to be able to speak to corporate about our situation only to have our requests fall on deaf ears. We filed a police report, but could not give completed information as we have been unable to speak with loss prevention about exactly what happened. How was our account hacked? Were other accounts hacked? So today we also filed a complaint against Cinemark USA Inc. For lack of customer service, failure to secure their site while protecting people's money and still advertising to people to add your GC to that unsafe site! Protect yourself. Buy your giftcard, keep it safe in your wallet and enjoy it from there. That way you keep what is yours! Don't let Cibemark lose what is yours! Trust me they won't do anything about it and they won't give the lost money back!",
+      "verified_purchase": false,
+      "helpful_vote": 3,
+      "timestamp": 1550206344731,
+      "asin": "B07HFRK4NR",
+      "id": "gc-128395",
+      "source_line": 128395,
+      "rating": 1,
+      "model_input": {
+        "title": "Connections Account not safe for gift cards",
+        "text": "We purchase gift cards every year from Cinemark and reload them throughout the year. We listened to the advertising and advice from Cinemark and added our giftcard to our connection account a little over a year ago. BIG MISTAKE! Cinemark does not have good protection from cyber hackers for their connection site. Thus our giftcard was hacked from the connections site and we lost $225.00 of our giftcard balance when that balance was stolen from their site and used over 800 miles a way to, I guess, have an expensive movie night out! I wish we had ignored Cinemark and their advertising as if we had just used the giftcard we purchased and taken it out of our wallet to pay and not linked the GC number to our account we would still have $225.01 that was haced.<br /><br />Cinemark also does not honor their guests. We have been treated rudely. Told musinformation, like that their loss prevention team would call yet that has never happened. Also asked to be able to speak to corporate about our situation only to have our requests fall on deaf ears. We filed a police report, but could not give completed information as we have been unable to speak with loss prevention about exactly what happened. How was our account hacked? Were other accounts hacked? So today we also filed a complaint against Cinemark USA Inc. For lack of customer service, failure to secure their site while protecting people's money and still advertising to people to add your GC to that unsafe site! Protect yourself. Buy your giftcard, keep it safe in your wallet and enjoy it from there. That way you keep what is yours! Don't let Cibemark lose what is yours! Trust me they won't do anything about it and they won't give the lost money back!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Cards were empty. Waste of money.",
+      "text": "Unable to redeem these cards, they each had $0 dollars on them. Money down the drain.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1647674564870,
+      "asin": "B07GTM8YBY",
+      "id": "gc-096779",
+      "source_line": 96779,
+      "rating": 1,
+      "model_input": {
+        "title": "Cards were empty. Waste of money.",
+        "text": "Unable to redeem these cards, they each had $0 dollars on them. Money down the drain."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Loved it",
+      "text": "Loved the special graduation icons",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1469077193000,
+      "asin": "B00WRS2C68",
+      "id": "gc-120381",
+      "source_line": 120381,
+      "rating": 5,
+      "model_input": {
+        "title": "Loved it",
+        "text": "Loved the special graduation icons"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Wht such a high purchase fee?",
+      "text": "I think the service fee of $5.95 is too high.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1518728834372,
+      "asin": "B01MSBQB1P",
+      "id": "gc-110854",
+      "source_line": 110854,
+      "rating": 3,
+      "model_input": {
+        "title": "Wht such a high purchase fee?",
+        "text": "I think the service fee of $5.95 is too high."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Disappointed in the bent tin.",
+      "text": "I received this and it was so bent up that the cupcake tin wouldn’t close.  I was disappointed because it was for a child’s birthday gift.  I’ve purchased many gift cards and this is the only time I was unhappy with my purchase.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1596956512240,
+      "asin": "B01C9MW8Z6",
+      "id": "gc-112545",
+      "source_line": 112545,
+      "rating": 3,
+      "model_input": {
+        "title": "Disappointed in the bent tin.",
+        "text": "I received this and it was so bent up that the cupcake tin wouldn’t close.  I was disappointed because it was for a child’s birthday gift.  I’ve purchased many gift cards and this is the only time I was unhappy with my purchase."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Details unclear",
+      "text": "An attractive offer but i did not understand that the bonus would only apply to an order shipped directly from Amazon",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1465390526000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-063708",
+      "source_line": 63708,
+      "rating": 3,
+      "model_input": {
+        "title": "Details unclear",
+        "text": "An attractive offer but i did not understand that the bonus would only apply to an order shipped directly from Amazon"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "What headline?",
+      "text": "I thought I could use it for subscription or something. Couldn't. Currently I don't know what to do with it or how to use it...",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1674200712917,
+      "asin": "B086KKT3RX",
+      "id": "gc-122436",
+      "source_line": 122436,
+      "rating": 1,
+      "model_input": {
+        "title": "What headline?",
+        "text": "I thought I could use it for subscription or something. Couldn't. Currently I don't know what to do with it or how to use it..."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "A nightmare",
+      "text": "There is no simple way to get these v bucks onto a secondary account on ps4. Epic games and PlayStation are both no help in fixing the issue either",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1640834598828,
+      "asin": "B08ZL1W41Q",
+      "id": "gc-130395",
+      "source_line": 130395,
+      "rating": 1,
+      "model_input": {
+        "title": "A nightmare",
+        "text": "There is no simple way to get these v bucks onto a secondary account on ps4. Epic games and PlayStation are both no help in fixing the issue either"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Would have been nice if the \"this is a gift\" line was noticed ...",
+      "text": "This was a gift item and the person receiving said there was no information from where it came.  She had to send an embarrassing text to find out &#34;who sent the Amazon gift card&#34;.  Would have been nice if the &#34;this is a gift&#34; line was noticed with to and from.",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1515861185257,
+      "asin": "B071YT3CB8",
+      "id": "gc-132494",
+      "source_line": 132494,
+      "rating": 3,
+      "model_input": {
+        "title": "Would have been nice if the \"this is a gift\" line was noticed ...",
+        "text": "This was a gift item and the person receiving said there was no information from where it came.  She had to send an embarrassing text to find out &#34;who sent the Amazon gift card&#34;.  Would have been nice if the &#34;this is a gift&#34; line was noticed with to and from."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Three Stars",
+      "text": "1",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1525280065645,
+      "asin": "B00IX1I3G6",
+      "id": "gc-071162",
+      "source_line": 71162,
+      "rating": 3,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "1"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Great gift box",
+      "text": "Loved the free gift box",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1609353633158,
+      "asin": "B0725JM87R",
+      "id": "gc-059472",
+      "source_line": 59472,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift box",
+        "text": "Loved the free gift box"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Did not work",
+      "text": "I gave this to my friend As a gift it says there is money on the card but it will not work<br />It shut down a system at a store when they tried to use it. When you call it says money is on there but they can’t use it",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1591037251597,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-102406",
+      "source_line": 102406,
+      "rating": 1,
+      "model_input": {
+        "title": "Did not work",
+        "text": "I gave this to my friend As a gift it says there is money on the card but it will not work<br />It shut down a system at a store when they tried to use it. When you call it says money is on there but they can’t use it"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "False advertising",
+      "text": "Ripp off. The offer was  $50.00 for $40.00 and the charged the $50.00. Dont fall for it. The cards did arrive timely but not at the price avertized.",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1554797797972,
+      "asin": "B00FTGTM5E",
+      "id": "gc-026928",
+      "source_line": 26928,
+      "rating": 1,
+      "model_input": {
+        "title": "False advertising",
+        "text": "Ripp off. The offer was  $50.00 for $40.00 and the charged the $50.00. Dont fall for it. The cards did arrive timely but not at the price avertized."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "good stuff",
+      "text": "loved the packaging. Makes giving a gift card much better.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1577771696019,
+      "asin": "B076417B1K",
+      "id": "gc-080294",
+      "source_line": 80294,
+      "rating": 5,
+      "model_input": {
+        "title": "good stuff",
+        "text": "loved the packaging. Makes giving a gift card much better."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great gift card for friends in holiday season",
+      "text": "Great design of gift card for friends to eat some chipotle food in holiday season. Easy to use.",
+      "verified_purchase": true,
+      "helpful_vote": 2,
+      "timestamp": 1574192949565,
+      "asin": "B07SSFSFJD",
+      "id": "gc-000836",
+      "source_line": 836,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift card for friends in holiday season",
+        "text": "Great design of gift card for friends to eat some chipotle food in holiday season. Easy to use."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift Cards how can you rate gift cards",
+      "text": "Gift Cards are gift cards...can't go wrong there.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1575602507116,
+      "asin": "B06WVJBLBQ",
+      "id": "gc-088205",
+      "source_line": 88205,
+      "rating": 5,
+      "model_input": {
+        "title": "Gift Cards how can you rate gift cards",
+        "text": "Gift Cards are gift cards...can't go wrong there."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Overcharged",
+      "text": "I purchased a Brother Compact Monochrome Laser Printer, HL-L2370DWXL, which included a promotional offer, \"Buy any Brother XL Printer, and receive a $20 gift card... Gift Card must be added to Shopping Cart, and offer will be reflected at Checkout.\" I should not have been charged for this card. Very unhappy.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1547513743411,
+      "asin": "B06WVJBLBQ",
+      "id": "gc-088805",
+      "source_line": 88805,
+      "rating": 1,
+      "model_input": {
+        "title": "Overcharged",
+        "text": "I purchased a Brother Compact Monochrome Laser Printer, HL-L2370DWXL, which included a promotional offer, \"Buy any Brother XL Printer, and receive a $20 gift card... Gift Card must be added to Shopping Cart, and offer will be reflected at Checkout.\" I should not have been charged for this card. Very unhappy."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "It was supposed to be for mother's day and I received one that looked more like it was intended for a birthday",
+      "text": "I received the wrong card. It was supposed to be for mother's day and I received one that looked more like it was intended for a birthday, with balloons and such on it.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1501093470146,
+      "asin": "B01IE4300U",
+      "id": "gc-078562",
+      "source_line": 78562,
+      "rating": 2,
+      "model_input": {
+        "title": "It was supposed to be for mother's day and I received one that looked more like it was intended for a birthday",
+        "text": "I received the wrong card. It was supposed to be for mother's day and I received one that looked more like it was intended for a birthday, with balloons and such on it."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Having problems doing that",
+      "text": "Trying to cancel it",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1605383134161,
+      "asin": "B00IX1I3G6",
+      "id": "gc-100927",
+      "source_line": 100927,
+      "rating": 3,
+      "model_input": {
+        "title": "Having problems doing that",
+        "text": "Trying to cancel it"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "For those sewers in your life.",
+      "text": "Great gift card for those crafty people on your list.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1478010312000,
+      "asin": "B00VF0MCCS",
+      "id": "gc-031200",
+      "source_line": 31200,
+      "rating": 5,
+      "model_input": {
+        "title": "For those sewers in your life.",
+        "text": "Great gift card for those crafty people on your list."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Just a gift card",
+      "text": "Just a gift card",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1578872106912,
+      "asin": "B00IX1I3G6",
+      "id": "gc-075279",
+      "source_line": 75279,
+      "rating": 3,
+      "model_input": {
+        "title": "Just a gift card",
+        "text": "Just a gift card"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "was not activated",
+      "text": "I was trying to buy some thing and kept on saying that the card was invalid",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1621456896088,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-094520",
+      "source_line": 94520,
+      "rating": 1,
+      "model_input": {
+        "title": "was not activated",
+        "text": "I was trying to buy some thing and kept on saying that the card was invalid"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Service",
+      "text": "My card was all damaged and the outside envelope came later then said",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1549814323637,
+      "asin": "B00BXLTZ6K",
+      "id": "gc-080207",
+      "source_line": 80207,
+      "rating": 3,
+      "model_input": {
+        "title": "Service",
+        "text": "My card was all damaged and the outside envelope came later then said"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One Star",
+      "text": "Not very happy went to use this and it was not loaded with the $25 :(",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1450050980000,
+      "asin": "B00YD5XWEY",
+      "id": "gc-099210",
+      "source_line": 99210,
+      "rating": 1,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Not very happy went to use this and it was not loaded with the $25 :("
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Horrible, horrible, horrible!! Do NOT order from this SHAM company!",
+      "text": "I don't know what kind of sweatshop these guys are running, but I've had problems with them since day ONE--I tried to give them ZERO STARS, but I HAD to give them at least one (which is being generous, in my opinion). I ordered my cards well in advance, and they still did not arrive on time. When I called the company to figure out what the issue was, they sent my phone call to somewhere in India--I was put on hold numerous times while they scrambled around trying to figure out what was going on with an order they had sent. When they finally had some information, they GUARANTEED a delivery date--the date passed with NO cards in the mail whatsoever. Apparently, this 'company' (and I use that term very loosely) takes 2+ weeks to process and send out FAULTY orders.<br /><br />When the individual DID receive the card it looked as though it had been used, and did not even WORK. When I explained to 'GiftCard Mall' what had happened, and told them that my mother said it looked like the card was in rough condition (the individual at the store the card was purchased for, in fact, confirmed the card HAD been reloaded--she had guessed it was multiple times from the shape the card was in), they implied that she was lying about it! The manager I spoke with on the phone was constantly interrupting me and trying to speak over me while I was trying to explain myself--trying to convince me that the United States Postal Service doesn't have tracking numbers. I told the manager that I was guaranteed a delivery date when I called previously, at the very least I expect a company to stick by the guarantees THEY offer, but apparently this company does NOT stick by their promises. The records they had of my previous conversation was entirely lacking, and instead of trying to resolve the issue the 'manager' (I say this because he was both condescending and unprofessional) then sent me off to get lost in the paperwork of some 'corporate office.'<br /><br />I love Amazon, and I love the convenience of online shopping--I would have been a FREQUENT customer of GiftCard Mall, but this business isn't a business at all. These guys take your order and your HARD-EARNED MONEY, and then throw an old, previously used giftcard in the mail hoping it's the right store, with the right amount, going to the right location--if not, oh well! It will be your fault...but only because you still chose to order from them after reading this.<br /><br />From now on, I will be buying my giftcards the old-fashioned way--if it ain't broke...",
+      "verified_purchase": true,
+      "helpful_vote": 80,
+      "timestamp": 1302978565000,
+      "asin": "B003YLZCFK",
+      "id": "gc-148854",
+      "source_line": 148854,
+      "rating": 1,
+      "model_input": {
+        "title": "Horrible, horrible, horrible!! Do NOT order from this SHAM company!",
+        "text": "I don't know what kind of sweatshop these guys are running, but I've had problems with them since day ONE--I tried to give them [rating omitted], but I HAD to give them at least one (which is being generous, in my opinion). I ordered my cards well in advance, and they still did not arrive on time. When I called the company to figure out what the issue was, they sent my phone call to somewhere in India--I was put on hold numerous times while they scrambled around trying to figure out what was going on with an order they had sent. When they finally had some information, they GUARANTEED a delivery date--the date passed with NO cards in the mail whatsoever. Apparently, this 'company' (and I use that term very loosely) takes 2+ weeks to process and send out FAULTY orders.<br /><br />When the individual DID receive the card it looked as though it had been used, and did not even WORK. When I explained to 'GiftCard Mall' what had happened, and told them that my mother said it looked like the card was in rough condition (the individual at the store the card was purchased for, in fact, confirmed the card HAD been reloaded--she had guessed it was multiple times from the shape the card was in), they implied that she was lying about it! The manager I spoke with on the phone was constantly interrupting me and trying to speak over me while I was trying to explain myself--trying to convince me that the United States Postal Service doesn't have tracking numbers. I told the manager that I was guaranteed a delivery date when I called previously, at the very least I expect a company to stick by the guarantees THEY offer, but apparently this company does NOT stick by their promises. The records they had of my previous conversation was entirely lacking, and instead of trying to resolve the issue the 'manager' (I say this because he was both condescending and unprofessional) then sent me off to get lost in the paperwork of some 'corporate office.'<br /><br />I love Amazon, and I love the convenience of online shopping--I would have been a FREQUENT customer of GiftCard Mall, but this business isn't a business at all. These guys take your order and your HARD-EARNED MONEY, and then throw an old, previously used giftcard in the mail hoping it's the right store, with the right amount, going to the right location--if not, oh well! It will be your fault...but only because you still chose to order from them after reading this.<br /><br />From now on, I will be buying my giftcards the old-fashioned way--if it ain't broke..."
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Beware of packaging",
+      "text": "I purchased a $50 gift card and had it sent to a relative. All of the online documentation indicated the recipient would not know what was in the package.  There was a box during the order process for a To: and From: and I also added \"Do Not Open Until Christmas\". The package arrived on the specified day but the label on the outside of the box did not have any indication of my note.  The recipient opened the box to find a sealed Amazon envelope and a packing slip.  The sealed envelope contained the gift card.  I figured the note should be here; nope.  I finally found the note on the packing slip.  OK, that's fine, but the packing slip also had the description of what was inside the sealed envelope including the denomination of the gift card; so much for a surprise.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1293490794000,
+      "asin": "BT00CTP11I",
+      "id": "gc-085973",
+      "source_line": 85973,
+      "rating": 3,
+      "model_input": {
+        "title": "Beware of packaging",
+        "text": "I purchased a $50 gift card and had it sent to a relative. All of the online documentation indicated the recipient would not know what was in the package.  There was a box during the order process for a To: and From: and I also added \"Do Not Open Until Christmas\". The package arrived on the specified day but the label on the outside of the box did not have any indication of my note.  The recipient opened the box to find a sealed Amazon envelope and a packing slip.  The sealed envelope contained the gift card.  I figured the note should be here; nope.  I finally found the note on the packing slip.  OK, that's fine, but the packing slip also had the description of what was inside the sealed envelope including the denomination of the gift card; so much for a surprise."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "This sux",
+      "text": "Bad",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1611805960705,
+      "asin": "B072F9T6VX",
+      "id": "gc-107946",
+      "source_line": 107946,
+      "rating": 1,
+      "model_input": {
+        "title": "This sux",
+        "text": "Bad"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Gift message was not left with package, my brother had no idea who it was from, very disappointing.",
+      "text": "Should have given the gift message with the gift card so my brother knew who it was from.",
+      "verified_purchase": false,
+      "helpful_vote": 0,
+      "timestamp": 1623978613695,
+      "asin": "B08JV9BS26",
+      "id": "gc-090118",
+      "source_line": 90118,
+      "rating": 3,
+      "model_input": {
+        "title": "Gift message was not left with package, my brother had no idea who it was from, very disappointing.",
+        "text": "Should have given the gift message with the gift card so my brother knew who it was from."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Perfect Gift",
+      "text": "Perfect gift for someone who has most everything.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1529577548734,
+      "asin": "B01K8RL9C2",
+      "id": "gc-073795",
+      "source_line": 73795,
+      "rating": 5,
+      "model_input": {
+        "title": "Perfect Gift",
+        "text": "Perfect gift for someone who has most everything."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Hard to figure the value from outside.",
+      "text": "Hard to figure the value from outside.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1577398135631,
+      "asin": "B06WVJBLBQ",
+      "id": "gc-088065",
+      "source_line": 88065,
+      "rating": 3,
+      "model_input": {
+        "title": "Hard to figure the value from outside.",
+        "text": "Hard to figure the value from outside."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Fun for birthdays",
+      "text": "Great birthday gift.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1438310966000,
+      "asin": "B00JDQJVF2",
+      "id": "gc-141300",
+      "source_line": 141300,
+      "rating": 5,
+      "model_input": {
+        "title": "Fun for birthdays",
+        "text": "Great birthday gift."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "ill try most things, once",
+      "text": "glad to get a ten dollar reward to try it out.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1530651331619,
+      "asin": "B00IX1I3G6",
+      "id": "gc-063860",
+      "source_line": 63860,
+      "rating": 3,
+      "model_input": {
+        "title": "ill try most things, once",
+        "text": "glad to get a ten dollar reward to try it out."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Pretty",
+      "text": "Basic gift card",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1587877366879,
+      "asin": "B076417B1K",
+      "id": "gc-071139",
+      "source_line": 71139,
+      "rating": 5,
+      "model_input": {
+        "title": "Pretty",
+        "text": "Basic gift card"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Not a Bear.  Tradition Ruined",
+      "text": "I've been getting the Amazon Gund bear every year.  This year the bear was replaced by socks.  Very sad end to a great tradition from the Amazon promotion team..",
+      "verified_purchase": true,
+      "helpful_vote": 8,
+      "timestamp": 1545312842217,
+      "asin": "B077TG1GVY",
+      "id": "gc-034148",
+      "source_line": 34148,
+      "rating": 1,
+      "model_input": {
+        "title": "Not a Bear.  Tradition Ruined",
+        "text": "I've been getting the Amazon Gund bear every year.  This year the bear was replaced by socks.  Very sad end to a great tradition from the Amazon promotion team.."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Limited use",
+      "text": "This gift card cannot be used at Starbucks in a Barnes and nobles store.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1421173652000,
+      "asin": "B00AR51Y5I",
+      "id": "gc-133998",
+      "source_line": 133998,
+      "rating": 3,
+      "model_input": {
+        "title": "Limited use",
+        "text": "This gift card cannot be used at Starbucks in a Barnes and nobles store."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Three Stars",
+      "text": "Cute little Xmas case",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1482199781000,
+      "asin": "B01DCN8P2Q",
+      "id": "gc-084881",
+      "source_line": 84881,
+      "rating": 3,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Cute little Xmas case"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "That I can use it",
+      "text": "The one did not work.  Won’t buy again",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1653144572147,
+      "asin": "B08B3NYGBF",
+      "id": "gc-151653",
+      "source_line": 151653,
+      "rating": 1,
+      "model_input": {
+        "title": "That I can use it",
+        "text": "The one did not work.  Won’t buy again"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Doesn't work",
+      "text": "It doesn't work",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1591996636121,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-094939",
+      "source_line": 94939,
+      "rating": 1,
+      "model_input": {
+        "title": "Doesn't work",
+        "text": "It doesn't work"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Call the number on the back to register card DO NOT USE SITE",
+      "text": "2/3 worked fine trying to get Amazon to fix the last card because a google charge ended up there that wasn’t me. People are using fake sites to steal money so just call the number on the back of the card to avoid your money going missing and try to transfer it to a personal card if you can",
+      "verified_purchase": false,
+      "helpful_vote": 2,
+      "timestamp": 1630852317909,
+      "asin": "B07GH7JZ91",
+      "id": "gc-144603",
+      "source_line": 144603,
+      "rating": 3,
+      "model_input": {
+        "title": "Call the number on the back to register card DO NOT USE SITE",
+        "text": "2/3 worked fine trying to get Amazon to fix the last card because a google charge ended up there that wasn’t me. People are using fake sites to steal money so just call the number on the back of the card to avoid your money going missing and try to transfer it to a personal card if you can"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "ok but I was offered a $10. gift promo ...",
+      "text": "ok  but I was offered a $10. gift promo for ordering it but did not receive it... and I ordered another $50.card with same promo and got card and no promotion., so I gave it a 3",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1447946031000,
+      "asin": "B005ESMF5G",
+      "id": "gc-118955",
+      "source_line": 118955,
+      "rating": 3,
+      "model_input": {
+        "title": "ok but I was offered a $10. gift promo ...",
+        "text": "ok  but I was offered a $10. gift promo for ordering it but did not receive it... and I ordered another $50.card with same promo and got card and no promotion., so I gave it a 3"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "I'm glad I did not give this card away as a ...",
+      "text": "I'm glad I did not give this card away as a gift because I would be embarrassed to find out that it did not work for the recipient when it was supposed to. I've called the phone number on the back of the card and it is activated and contains the appropriate balance. The card, however, did not read and was neither &#34;accepted or declined&#34;, as the manager was telling me this.<br /><br />I've gone to the company that operates the card and it referenced that any redemption issues should notify the retailer that issued the card. So now I wait to find out how I can use my card with a balance but cannot be read and processed.",
+      "verified_purchase": true,
+      "helpful_vote": 8,
+      "timestamp": 1437411112000,
+      "asin": "B00JJ59UA8",
+      "id": "gc-095229",
+      "source_line": 95229,
+      "rating": 2,
+      "model_input": {
+        "title": "I'm glad I did not give this card away as a ...",
+        "text": "I'm glad I did not give this card away as a gift because I would be embarrassed to find out that it did not work for the recipient when it was supposed to. I've called the phone number on the back of the card and it is activated and contains the appropriate balance. The card, however, did not read and was neither &#34;accepted or declined&#34;, as the manager was telling me this.<br /><br />I've gone to the company that operates the card and it referenced that any redemption issues should notify the retailer that issued the card. So now I wait to find out how I can use my card with a balance but cannot be read and processed."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Pretty but too thin",
+      "text": "It is too thin as I thought",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1673369957946,
+      "asin": "B09ZJ23J2L",
+      "id": "gc-067364",
+      "source_line": 67364,
+      "rating": 3,
+      "model_input": {
+        "title": "Pretty but too thin",
+        "text": "It is too thin as I thought"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great investment. I need more",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1504114790381,
+      "asin": "B00AR51Y5I",
+      "id": "gc-115506",
+      "source_line": 115506,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Great investment. I need more"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "To give a Christmas gift card in June someone screwed up. I asked for a different card front",
+      "text": "Wrong card.  I’ll keep this for Christmas",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1655250061976,
+      "asin": "B071VCQJ24",
+      "id": "gc-047495",
+      "source_line": 47495,
+      "rating": 1,
+      "model_input": {
+        "title": "To give a Christmas gift card in June someone screwed up. I asked for a different card front",
+        "text": "Wrong card.  I’ll keep this for Christmas"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Arrived in 2 days 👍",
+      "text": "Quick delivery and great gift for friend traveling",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1655147797423,
+      "asin": "B01MSBQB1P",
+      "id": "gc-079123",
+      "source_line": 79123,
+      "rating": 5,
+      "model_input": {
+        "title": "Arrived in 2 days 👍",
+        "text": "Quick delivery and great gift for friend traveling"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "I recieved only 16.",
+      "text": "Orginal order was for 18 cards, I recievd only 16.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1603976435448,
+      "asin": "B07FK995X7",
+      "id": "gc-147837",
+      "source_line": 147837,
+      "rating": 1,
+      "model_input": {
+        "title": "I recieved only 16.",
+        "text": "Orginal order was for 18 cards, I recievd only 16."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Amazing",
+      "text": "He loved it!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1568323295315,
+      "asin": "B075SHPN2P",
+      "id": "gc-011345",
+      "source_line": 11345,
+      "rating": 5,
+      "model_input": {
+        "title": "Amazing",
+        "text": "He loved it!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Envelopes were too small for the cards!",
+      "text": "The envelopes were too small for the cards",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1607313913084,
+      "asin": "B005ESMEMU",
+      "id": "gc-140507",
+      "source_line": 140507,
+      "rating": 1,
+      "model_input": {
+        "title": "Envelopes were too small for the cards!",
+        "text": "The envelopes were too small for the cards"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Prepare to wait...",
+      "text": "They claim it will take 5 minutes... more like over an hour every time.. this is inconvenient  and almost funny because when the money goes directly through it should automatically  reflect on the balance... sorry amazon buy this process is broken..",
+      "verified_purchase": true,
+      "helpful_vote": 6,
+      "timestamp": 1444736154000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-137065",
+      "source_line": 137065,
+      "rating": 2,
+      "model_input": {
+        "title": "Prepare to wait...",
+        "text": "They claim it will take 5 minutes... more like over an hour every time.. this is inconvenient  and almost funny because when the money goes directly through it should automatically  reflect on the balance... sorry amazon buy this process is broken.."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Great gift idea",
+      "text": "Came quickly, and they loved they could what they want",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1542418764053,
+      "asin": "B0719C5P56",
+      "id": "gc-101906",
+      "source_line": 101906,
+      "rating": 5,
+      "model_input": {
+        "title": "Great gift idea",
+        "text": "Came quickly, and they loved they could what they want"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "These are handy for tough to buy for folks.  Not very personal, but it does allow them to make their own purchases.",
+      "text": "These are handy for tough to buy for folks.  Not very personal, but it does allow them to make their own purchases.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1409501190000,
+      "asin": "B005ESMEI4",
+      "id": "gc-015284",
+      "source_line": 15284,
+      "rating": 2,
+      "model_input": {
+        "title": "These are handy for tough to buy for folks.  Not very personal, but it does allow them to make their own purchases.",
+        "text": "These are handy for tough to buy for folks.  Not very personal, but it does allow them to make their own purchases."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Was not activated",
+      "text": "Was not activated.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1574629750665,
+      "asin": "B07FX2LXR4",
+      "id": "gc-141116",
+      "source_line": 141116,
+      "rating": 1,
+      "model_input": {
+        "title": "Was not activated",
+        "text": "Was not activated."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Came without being loaded",
+      "text": "I bought this as a gift for my mother on Christmas.  When she went to use it, it had no money on it.  I had bought others that worked fine, but this one did not.  Unfortunately it ruined a holiday  present for family.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1673987886544,
+      "asin": "B07HJHK8Y5",
+      "id": "gc-094930",
+      "source_line": 94930,
+      "rating": 1,
+      "model_input": {
+        "title": "Came without being loaded",
+        "text": "I bought this as a gift for my mother on Christmas.  When she went to use it, it had no money on it.  I had bought others that worked fine, but this one did not.  Unfortunately it ruined a holiday  present for family."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "great to use",
+      "text": "liked points",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1565296650794,
+      "asin": "B00IX1I3G6",
+      "id": "gc-095903",
+      "source_line": 95903,
+      "rating": 5,
+      "model_input": {
+        "title": "great to use",
+        "text": "liked points"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "I really like these gift cards",
+      "text": "I really like these gift cards. They are a lot nicer than the gift cards you can buy in the stores.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1480970963000,
+      "asin": "B01C9P3EGU",
+      "id": "gc-129479",
+      "source_line": 129479,
+      "rating": 5,
+      "model_input": {
+        "title": "I really like these gift cards",
+        "text": "I really like these gift cards. They are a lot nicer than the gift cards you can buy in the stores."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Nice Packaging of the Gift Card",
+      "text": "Loved the box it came in!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1489808202000,
+      "asin": "B01K8RJDEI",
+      "id": "gc-112943",
+      "source_line": 112943,
+      "rating": 5,
+      "model_input": {
+        "title": "Nice Packaging of the Gift Card",
+        "text": "Loved the box it came in!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "How much is on the card?",
+      "text": "I ordered several gift cards at different amounts.  They all came in the same package and there's no way to tell which one is which.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1545586746420,
+      "asin": "B0719C5P56",
+      "id": "gc-144315",
+      "source_line": 144315,
+      "rating": 3,
+      "model_input": {
+        "title": "How much is on the card?",
+        "text": "I ordered several gift cards at different amounts.  They all came in the same package and there's no way to tell which one is which."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Confusing!!",
+      "text": "Very confusing!",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1607884845527,
+      "asin": "B00IX1I3G6",
+      "id": "gc-146498",
+      "source_line": 146498,
+      "rating": 3,
+      "model_input": {
+        "title": "Confusing!!",
+        "text": "Very confusing!"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "RIP OFF",
+      "text": "What a rip off had on watch list and hit add to cart right away and put on waiting list",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1499808488363,
+      "asin": "B006PJHPSU",
+      "id": "gc-137927",
+      "source_line": 137927,
+      "rating": 1,
+      "model_input": {
+        "title": "RIP OFF",
+        "text": "What a rip off had on watch list and hit add to cart right away and put on waiting list"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "excellent",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1506453113804,
+      "asin": "B00NVUDIZ0",
+      "id": "gc-131420",
+      "source_line": 131420,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "excellent"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Nice product but…",
+      "text": "Purchased these to add to teacher appreciation gifts. The gift card holders/envelopes are really nice and make for very nice presentation. However I ordered three and one came destroyed. There are no holes in the plastic but it is stretched like someone purposely ripped the envelope open. The claim sticker is not removed so I don’t believe the gift card has been compromised. But if someone ordered these they are likely for a gift so why would you send one that is destroyed.",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1683289032637,
+      "asin": "B07Y92XFRD",
+      "id": "gc-123616",
+      "source_line": 123616,
+      "rating": 3,
+      "model_input": {
+        "title": "Nice product but…",
+        "text": "Purchased these to add to teacher appreciation gifts. The gift card holders/envelopes are really nice and make for very nice presentation. However I ordered three and one came destroyed. There are no holes in the plastic but it is stretched like someone purposely ripped the envelope open. The claim sticker is not removed so I don’t believe the gift card has been compromised. But if someone ordered these they are likely for a gift so why would you send one that is destroyed."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "just what i asked for",
+      "verified_purchase": true,
+      "helpful_vote": 1,
+      "timestamp": 1530888664167,
+      "asin": "B00IX1I3G6",
+      "id": "gc-037839",
+      "source_line": 37839,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "just what i asked for"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Delivery",
+      "text": "Missed promised date",
+      "verified_purchase": false,
+      "helpful_vote": 1,
+      "timestamp": 1576783971539,
+      "asin": "B01K8RMDO0",
+      "id": "gc-090794",
+      "source_line": 90794,
+      "rating": 1,
+      "model_input": {
+        "title": "Delivery",
+        "text": "Missed promised date"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "One Star",
+      "text": "works fine",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1458746935000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-040023",
+      "source_line": 40023,
+      "rating": 1,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "works fine"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "No specific comments",
+      "text": "No specific comments",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1592140884944,
+      "asin": "B01IE42XY4",
+      "id": "gc-103801",
+      "source_line": 103801,
+      "rating": 3,
+      "model_input": {
+        "title": "No specific comments",
+        "text": "No specific comments"
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "It wasn't like the one on this page",
+      "text": "I wasn't impressed with the tin. It wasn't like the one on this page. Get candy crush jelly saga.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1454713926000,
+      "asin": "B0160LI70C",
+      "id": "gc-109835",
+      "source_line": 109835,
+      "rating": 3,
+      "model_input": {
+        "title": "It wasn't like the one on this page",
+        "text": "I wasn't impressed with the tin. It wasn't like the one on this page. Get candy crush jelly saga."
+      },
+      "rating_masked": false
+    },
+    {
+      "title": "Five Stars",
+      "text": "Great",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1435653662000,
+      "asin": "B00IX1I3G6",
+      "id": "gc-104241",
+      "source_line": 104241,
+      "rating": 5,
+      "model_input": {
+        "title": "[rating omitted]",
+        "text": "Great"
+      },
+      "rating_masked": true
+    },
+    {
+      "title": "Filling a leaky bucket",
+      "text": "The process is easy, which is good because Kindle raids that balance first.  When you go back later to use the balance, it's reduced or gone.",
+      "verified_purchase": true,
+      "helpful_vote": 0,
+      "timestamp": 1627815808706,
+      "asin": "B00IX1I3G6",
+      "id": "gc-052024",
+      "source_line": 52024,
+      "rating": 3,
+      "model_input": {
+        "title": "Filling a leaky bucket",
+        "text": "The process is easy, which is good because Kindle raids that balance first.  When you go back later to use the balance, it's reduced or gone."
+      },
+      "rating_masked": false
+    }
+  ]
+}

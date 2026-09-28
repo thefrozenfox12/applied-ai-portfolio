@@ -1,0 +1,467 @@
+{
+  "runs": {
+    "binary": {
+      "mode": "binary",
+      "sample_key": "binary",
+      "role": "Reference",
+      "sample_name": "First 100 source rows",
+      "metrics": {
+        "n": 100,
+        "correct": 94,
+        "mismatches": 6,
+        "accuracy": 0.94,
+        "balanced_accuracy": 0.9016897081413211,
+        "macro_f1": 0.8168498168498168,
+        "majority_baseline": 0.93,
+        "labels": [
+          "POSITIVE",
+          "NEGATIVE"
+        ],
+        "matrix": [
+          [
+            88,
+            5
+          ],
+          [
+            1,
+            6
+          ]
+        ],
+        "per_class": {
+          "POSITIVE": {
+            "support": 93,
+            "predicted": 89,
+            "correct": 88,
+            "precision": 0.9887640449438202,
+            "recall": 0.946236559139785,
+            "f1": 0.967032967032967
+          },
+          "NEGATIVE": {
+            "support": 7,
+            "predicted": 11,
+            "correct": 6,
+            "precision": 0.5454545454545454,
+            "recall": 0.8571428571428571,
+            "f1": 0.6666666666666665
+          }
+        },
+        "masked_reviews": 4
+      },
+      "emotion_sensitivity": {
+        "signal_n": 84,
+        "no_signal_n": 16,
+        "exact_signal_count": 17,
+        "exact_signal_rate": 0.20238095238095238,
+        "top_set_count": 55,
+        "top_set_rate": 0.6547619047619048,
+        "tie_break_only_count": 38,
+        "tied_n": 51,
+        "unique_n": 33,
+        "unique_agreement_count": 15,
+        "definition": "Top-set compatibility counts the LLM label among NRC maximum-score emotions. Both comparisons use only reviews with nonzero NRC signal. This relaxed measure is not accuracy."
+      },
+      "uncertainty": {
+        "available": false,
+        "reason": "First 100 rows are an ordered convenience sample. No population confidence interval is reported."
+      }
+    },
+    "three_class": {
+      "mode": "three_class",
+      "sample_key": "three_class",
+      "role": "Reference",
+      "sample_name": "150 rating-stratified reviews",
+      "metrics": {
+        "n": 150,
+        "correct": 108,
+        "mismatches": 42,
+        "accuracy": 0.72,
+        "balanced_accuracy": 0.7200000000000001,
+        "macro_f1": 0.6750582750582751,
+        "majority_baseline": 0.3333333333333333,
+        "labels": [
+          "POSITIVE",
+          "NEUTRAL",
+          "NEGATIVE"
+        ],
+        "matrix": [
+          [
+            48,
+            2,
+            0
+          ],
+          [
+            6,
+            12,
+            32
+          ],
+          [
+            0,
+            2,
+            48
+          ]
+        ],
+        "per_class": {
+          "POSITIVE": {
+            "support": 50,
+            "predicted": 54,
+            "correct": 48,
+            "precision": 0.8888888888888888,
+            "recall": 0.96,
+            "f1": 0.923076923076923
+          },
+          "NEUTRAL": {
+            "support": 50,
+            "predicted": 16,
+            "correct": 12,
+            "precision": 0.75,
+            "recall": 0.24,
+            "f1": 0.36363636363636365
+          },
+          "NEGATIVE": {
+            "support": 50,
+            "predicted": 80,
+            "correct": 48,
+            "precision": 0.6,
+            "recall": 0.96,
+            "f1": 0.7384615384615384
+          }
+        },
+        "masked_reviews": 20
+      },
+      "emotion_sensitivity": {
+        "signal_n": 118,
+        "no_signal_n": 32,
+        "exact_signal_count": 19,
+        "exact_signal_rate": 0.16101694915254236,
+        "top_set_count": 41,
+        "top_set_rate": 0.3474576271186441,
+        "tie_break_only_count": 22,
+        "tied_n": 75,
+        "unique_n": 43,
+        "unique_agreement_count": 9,
+        "definition": "Top-set compatibility counts the LLM label among NRC maximum-score emotions. Both comparisons use only reviews with nonzero NRC signal. This relaxed measure is not accuracy."
+      },
+      "uncertainty": {
+        "available": true,
+        "level": 0.95,
+        "method": "stratified percentile bootstrap",
+        "seed": 6419,
+        "resamples": 10000,
+        "strata": {
+          "POSITIVE": 50,
+          "NEUTRAL": 50,
+          "NEGATIVE": 50
+        },
+        "intervals": {
+          "accuracy": {
+            "low": 0.6733333333333333,
+            "high": 0.7666666666666667
+          },
+          "balanced_accuracy": {
+            "low": 0.6733333333333333,
+            "high": 0.7666666666666666
+          },
+          "macro_f1": {
+            "low": 0.6108666842375189,
+            "high": 0.7366052798298349
+          },
+          "POSITIVE.precision": {
+            "low": 0.8166666666666667,
+            "high": 0.9607843137254902
+          },
+          "POSITIVE.recall": {
+            "low": 0.9,
+            "high": 1.0
+          },
+          "POSITIVE.f1": {
+            "low": 0.8727272727272728,
+            "high": 0.9702970297029702
+          },
+          "NEUTRAL.precision": {
+            "low": 0.5384615384615384,
+            "high": 0.9411764705882353
+          },
+          "NEUTRAL.recall": {
+            "low": 0.12,
+            "high": 0.36
+          },
+          "NEUTRAL.f1": {
+            "low": 0.21052631578947367,
+            "high": 0.5
+          },
+          "NEGATIVE.precision": {
+            "low": 0.5517241379310345,
+            "high": 0.65342857142857
+          },
+          "NEGATIVE.recall": {
+            "low": 0.9,
+            "high": 1.0
+          },
+          "NEGATIVE.f1": {
+            "low": 0.6917293233082706,
+            "high": 0.784
+          }
+        },
+        "scope": "Approximate sampling uncertainty for the fixed equal-three-stratum mixture. Assumes independent reviews within strata; not corpus-prevalence accuracy, model-run variability, or uncertainty in the rating benchmark. Percentile intervals have limited small-sample coverage and cannot reveal unseen failure modes."
+      }
+    },
+    "binary_balanced": {
+      "mode": "binary",
+      "sample_key": "three_class",
+      "role": "Supplementary",
+      "sample_name": "150 rating-stratified reviews",
+      "metrics": {
+        "n": 150,
+        "correct": 140,
+        "mismatches": 10,
+        "accuracy": 0.9333333333333333,
+        "balanced_accuracy": 0.9299999999999999,
+        "macro_f1": 0.9257278669043376,
+        "majority_baseline": 0.6666666666666666,
+        "labels": [
+          "POSITIVE",
+          "NEGATIVE"
+        ],
+        "matrix": [
+          [
+            46,
+            4
+          ],
+          [
+            6,
+            94
+          ]
+        ],
+        "per_class": {
+          "POSITIVE": {
+            "support": 50,
+            "predicted": 52,
+            "correct": 46,
+            "precision": 0.8846153846153846,
+            "recall": 0.92,
+            "f1": 0.9019607843137256
+          },
+          "NEGATIVE": {
+            "support": 100,
+            "predicted": 98,
+            "correct": 94,
+            "precision": 0.9591836734693877,
+            "recall": 0.94,
+            "f1": 0.9494949494949495
+          }
+        },
+        "masked_reviews": 20
+      },
+      "emotion_sensitivity": {
+        "signal_n": 118,
+        "no_signal_n": 32,
+        "exact_signal_count": 18,
+        "exact_signal_rate": 0.15254237288135594,
+        "top_set_count": 41,
+        "top_set_rate": 0.3474576271186441,
+        "tie_break_only_count": 23,
+        "tied_n": 75,
+        "unique_n": 43,
+        "unique_agreement_count": 9,
+        "definition": "Top-set compatibility counts the LLM label among NRC maximum-score emotions. Both comparisons use only reviews with nonzero NRC signal. This relaxed measure is not accuracy."
+      },
+      "uncertainty": {
+        "available": true,
+        "level": 0.95,
+        "method": "stratified percentile bootstrap",
+        "seed": 6419,
+        "resamples": 10000,
+        "strata": {
+          "POSITIVE": 50,
+          "NEUTRAL": 50,
+          "NEGATIVE": 50
+        },
+        "intervals": {
+          "accuracy": {
+            "low": 0.8933333333333333,
+            "high": 0.9666666666666667
+          },
+          "balanced_accuracy": {
+            "low": 0.885,
+            "high": 0.97
+          },
+          "macro_f1": {
+            "low": 0.88116458704694,
+            "high": 0.9630378000098565
+          },
+          "POSITIVE.precision": {
+            "low": 0.8076923076923077,
+            "high": 0.9591836734693877
+          },
+          "POSITIVE.recall": {
+            "low": 0.84,
+            "high": 0.98
+          },
+          "POSITIVE.f1": {
+            "low": 0.8431372549019608,
+            "high": 0.9514563106796116
+          },
+          "NEGATIVE.precision": {
+            "low": 0.9215686274509803,
+            "high": 0.9896907216494846
+          },
+          "NEGATIVE.recall": {
+            "low": 0.89,
+            "high": 0.98
+          },
+          "NEGATIVE.f1": {
+            "low": 0.9183673469387755,
+            "high": 0.9751243781094527
+          }
+        },
+        "scope": "Approximate sampling uncertainty for the fixed equal-three-stratum mixture. Assumes independent reviews within strata; not corpus-prevalence accuracy, model-run variability, or uncertainty in the rating benchmark. Percentile intervals have limited small-sample coverage and cannot reveal unseen failure modes."
+      }
+    },
+    "three_class_first100": {
+      "mode": "three_class",
+      "sample_key": "binary",
+      "role": "Supplementary",
+      "sample_name": "First 100 source rows",
+      "metrics": {
+        "n": 100,
+        "correct": 95,
+        "mismatches": 5,
+        "accuracy": 0.95,
+        "balanced_accuracy": 0.6559139784946236,
+        "macro_f1": 0.6038647342995169,
+        "majority_baseline": 0.93,
+        "labels": [
+          "POSITIVE",
+          "NEUTRAL",
+          "NEGATIVE"
+        ],
+        "matrix": [
+          [
+            90,
+            2,
+            1
+          ],
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            5
+          ]
+        ],
+        "per_class": {
+          "POSITIVE": {
+            "support": 93,
+            "predicted": 91,
+            "correct": 90,
+            "precision": 0.989010989010989,
+            "recall": 0.967741935483871,
+            "f1": 0.9782608695652174
+          },
+          "NEUTRAL": {
+            "support": 2,
+            "predicted": 2,
+            "correct": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+          },
+          "NEGATIVE": {
+            "support": 5,
+            "predicted": 7,
+            "correct": 5,
+            "precision": 0.7142857142857143,
+            "recall": 1.0,
+            "f1": 0.8333333333333333
+          }
+        },
+        "masked_reviews": 4
+      },
+      "emotion_sensitivity": {
+        "signal_n": 84,
+        "no_signal_n": 16,
+        "exact_signal_count": 18,
+        "exact_signal_rate": 0.21428571428571427,
+        "top_set_count": 53,
+        "top_set_rate": 0.6309523809523809,
+        "tie_break_only_count": 35,
+        "tied_n": 51,
+        "unique_n": 33,
+        "unique_agreement_count": 16,
+        "definition": "Top-set compatibility counts the LLM label among NRC maximum-score emotions. Both comparisons use only reviews with nonzero NRC signal. This relaxed measure is not accuracy."
+      },
+      "uncertainty": {
+        "available": false,
+        "reason": "First 100 rows are an ordered convenience sample. No population confidence interval is reported."
+      }
+    }
+  },
+  "paired": {
+    "first100": {
+      "n": 100,
+      "binary_run": "binary",
+      "three_class_run": "three_class_first100",
+      "row_labels": [
+        "POSITIVE",
+        "NEGATIVE"
+      ],
+      "column_labels": [
+        "POSITIVE",
+        "NEUTRAL",
+        "NEGATIVE"
+      ],
+      "prediction_transitions": [
+        [
+          89,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          7
+        ]
+      ],
+      "changed_labels": 4,
+      "to_neutral": 2,
+      "opposite_polarity": 2,
+      "same_polarity": 96,
+      "note": "Paired descriptions on identical inputs, not a causal estimate. No predictions were supplied to another model request. Label definitions and scoring targets differ between tasks."
+    },
+    "balanced150": {
+      "n": 150,
+      "binary_run": "binary_balanced",
+      "three_class_run": "three_class",
+      "row_labels": [
+        "POSITIVE",
+        "NEGATIVE"
+      ],
+      "column_labels": [
+        "POSITIVE",
+        "NEUTRAL",
+        "NEGATIVE"
+      ],
+      "prediction_transitions": [
+        [
+          52,
+          0,
+          0
+        ],
+        [
+          2,
+          16,
+          80
+        ]
+      ],
+      "changed_labels": 18,
+      "to_neutral": 16,
+      "opposite_polarity": 2,
+      "same_polarity": 132,
+      "note": "Paired descriptions on identical inputs, not a causal estimate. No predictions were supplied to another model request. Label definitions and scoring targets differ between tasks."
+    }
+  },
+  "schema_version": 1
+}

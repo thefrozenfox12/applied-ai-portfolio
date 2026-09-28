@@ -1,0 +1,13 @@
+{
+  "source": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Gift_Cards.jsonl.gz",
+  "sha256": "e03a258ebd7b1e2591b09862aab65d3dcde9c300744d800aa1fbaf374b7c2340",
+  "total": 152410,
+  "ratings": {
+    "1": 12326,
+    "2": 1873,
+    "3": 3271,
+    "4": 6692,
+    "5": 128248
+  },
+  "sample_seed": 6418
+}

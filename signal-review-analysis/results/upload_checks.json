@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "checks": 38,
+  "provider": "local simulated endpoint",
+  "real_provider_tested": false,
+  "js_errors": []
+}

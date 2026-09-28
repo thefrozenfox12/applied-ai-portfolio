@@ -1,0 +1,2 @@
+# Python 3.10+; runtime uses only the standard library.
+# Browser verification (optional) uses Playwright for Node.js.

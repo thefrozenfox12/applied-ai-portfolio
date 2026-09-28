@@ -1,0 +1,2 @@
+# Linux deployment server; local development uses Python's standard library.
+gunicorn==26.2.0

@@ -1,0 +1,230 @@
+[
+  {
+    "mode": "binary",
+    "title": "Loved it",
+    "text": "Easy to use and exactly what I wanted.",
+    "expected": "POSITIVE",
+    "prediction": {
+      "sentiment": "POSITIVE",
+      "emotion": "joy",
+      "reason": "The reviewer explicitly states they 'Loved it' and describes the product as 'exactly what I wanted,' indicating satisfaction and pleasure."
+    },
+    "response": {
+      "id": "chatcmpl-ad0fef452465dcc6",
+      "object": "chat.completion",
+      "created": 1790555489,
+      "model": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"sentiment\": \"POSITIVE\",\n  \"emotion\": \"joy\",\n  \"reason\": \"The reviewer explicitly states they 'Loved it' and describes the product as 'exactly what I wanted,' indicating satisfaction and pleasure.\"\n}",
+            "refusal": null,
+            "annotations": null,
+            "audio": null,
+            "function_call": null,
+            "reasoning": null
+          },
+          "logprobs": null,
+          "finish_reason": "stop",
+          "stop_reason": null,
+          "token_ids": null,
+          "routed_experts": null
+        }
+      ],
+      "service_tier": null,
+      "system_fingerprint": "vllm-0.29.0-544d88b9",
+      "usage": {
+        "prompt_tokens": 334,
+        "total_tokens": 389,
+        "completion_tokens": 55,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "prompt_logprobs": null,
+      "prompt_token_ids": null,
+      "prompt_text": null,
+      "kv_transfer_params": null,
+      "ec_transfer_params": null,
+      "metrics": null
+    },
+    "elapsed_seconds": 5.102,
+    "request_sha256": "ec6beeb4f3b38f476412b5c94a4ac70ca52a1d563745654d730fd34f8d3dbd04",
+    "attempts": 1,
+    "prior_errors": []
+  },
+  {
+    "mode": "binary",
+    "title": "Unusable",
+    "text": "The card never worked and support refused to help.",
+    "expected": "NEGATIVE",
+    "prediction": {
+      "sentiment": "NEGATIVE",
+      "emotion": "anger",
+      "reason": "The reviewer describes the product as unusable and expresses frustration over the support team's refusal to assist."
+    },
+    "response": {
+      "id": "chatcmpl-b3fe652f9c0f5103",
+      "object": "chat.completion",
+      "created": 1790555493,
+      "model": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n\"sentiment\": \"NEGATIVE\",\n\"emotion\": \"anger\",\n\"reason\": \"The reviewer describes the product as unusable and expresses frustration over the support team's refusal to assist.\"\n}",
+            "refusal": null,
+            "annotations": null,
+            "audio": null,
+            "function_call": null,
+            "reasoning": null
+          },
+          "logprobs": null,
+          "finish_reason": "stop",
+          "stop_reason": null,
+          "token_ids": null,
+          "routed_experts": null
+        }
+      ],
+      "service_tier": null,
+      "system_fingerprint": "vllm-0.29.0-544d88b9",
+      "usage": {
+        "prompt_tokens": 334,
+        "total_tokens": 379,
+        "completion_tokens": 45,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "prompt_logprobs": null,
+      "prompt_token_ids": null,
+      "prompt_text": null,
+      "kv_transfer_params": null,
+      "ec_transfer_params": null,
+      "metrics": null
+    },
+    "elapsed_seconds": 4.067,
+    "request_sha256": "f11d2e74717eb22497e7edbb85097233e881980fde68ad500ede95e155cfcf12",
+    "attempts": 1,
+    "prior_errors": []
+  },
+  {
+    "mode": "three_class",
+    "title": "Loved it",
+    "text": "Easy to use and exactly what I wanted.",
+    "expected": "POSITIVE",
+    "prediction": {
+      "sentiment": "POSITIVE",
+      "emotion": "joy",
+      "reason": "The reviewer explicitly states they 'Loved it' and describes the product as 'exactly what I wanted,' indicating clear satisfaction and a favorable experience."
+    },
+    "response": {
+      "id": "chatcmpl-85cd2f8cff81d758",
+      "object": "chat.completion",
+      "created": 1790555502,
+      "model": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"sentiment\": \"POSITIVE\",\n  \"emotion\": \"joy\",\n  \"reason\": \"The reviewer explicitly states they 'Loved it' and describes the product as 'exactly what I wanted,' indicating clear satisfaction and a favorable experience.\"\n}",
+            "refusal": null,
+            "annotations": null,
+            "audio": null,
+            "function_call": null,
+            "reasoning": null
+          },
+          "logprobs": null,
+          "finish_reason": "stop",
+          "stop_reason": null,
+          "token_ids": null,
+          "routed_experts": null
+        }
+      ],
+      "service_tier": null,
+      "system_fingerprint": "vllm-0.29.0-544d88b9",
+      "usage": {
+        "prompt_tokens": 359,
+        "total_tokens": 417,
+        "completion_tokens": 58,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "prompt_logprobs": null,
+      "prompt_token_ids": null,
+      "prompt_text": null,
+      "kv_transfer_params": null,
+      "ec_transfer_params": null,
+      "metrics": null
+    },
+    "elapsed_seconds": 9.205,
+    "request_sha256": "50883d26307c56ad3da8d2bacb5abab32a69079fc9a9eb9b37936d3ed73672c0",
+    "attempts": 1,
+    "prior_errors": []
+  },
+  {
+    "mode": "three_class",
+    "title": "Unusable",
+    "text": "The card never worked and support refused to help.",
+    "expected": "NEGATIVE",
+    "prediction": {
+      "sentiment": "NEGATIVE",
+      "emotion": "anger",
+      "reason": "The review describes a product failure and unhelpful support, indicating clear dissatisfaction and frustration."
+    },
+    "response": {
+      "id": "chatcmpl-9dabe0cf5b408a7e",
+      "object": "chat.completion",
+      "created": 1790555506,
+      "model": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"sentiment\": \"NEGATIVE\",\n  \"emotion\": \"anger\",\n  \"reason\": \"The review describes a product failure and unhelpful support, indicating clear dissatisfaction and frustration.\"\n}",
+            "refusal": null,
+            "annotations": null,
+            "audio": null,
+            "function_call": null,
+            "reasoning": null
+          },
+          "logprobs": null,
+          "finish_reason": "stop",
+          "stop_reason": null,
+          "token_ids": null,
+          "routed_experts": null
+        }
+      ],
+      "service_tier": null,
+      "system_fingerprint": "vllm-0.29.0-544d88b9",
+      "usage": {
+        "prompt_tokens": 359,
+        "total_tokens": 405,
+        "completion_tokens": 46,
+        "prompt_tokens_details": null,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "prompt_logprobs": null,
+      "prompt_token_ids": null,
+      "prompt_text": null,
+      "kv_transfer_params": null,
+      "ec_transfer_params": null,
+      "metrics": null
+    },
+    "elapsed_seconds": 4.283,
+    "request_sha256": "dda5f83886c11d679057a2ffcbb382d105ebfe6de02dc4583970e2978ea24bce",
+    "attempts": 1,
+    "prior_errors": []
+  }
+]
